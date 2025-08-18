@@ -1,0 +1,159 @@
+URL: https://www.jusbrasil.com.br/jurisprudencia/stj/3423484203
+
+Ementa:
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. OPERAÇÃO "LAVA JATO". CRITÉRIOS PARA DEFINIÇÃO DE COMPETÊNCIA NA PRIMEIRA INSTÂNCIA. CONEXÃO INSTRUMENTAL. INOCORRÊNCIA DE PREVENÇÃO DA SEXTA TURMA DESTA CORTE PARA ANÁLISE DO WRIT. HABEAS CORPUS NÃO CONHECIDO.01. Prescreve a Constituição da Republica que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder" (art. 5º, inc. LXVIII). O Código de Processo Penal impõe aos juízes e aos tribunais que expeçam, "de ofício, ordem de habeas corpus, quando, no curso de processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal" (art. 654, § 2º). Desses preceptivos constitucional e legal se infere que no habeas corpus devem ser conhecidas quaisquer questões de fato e de direito relacionadas a constrangimento ou ameaça de constrangimento à liberdade individual de locomoção. Por isso, impõe-se seja processado para aferição da existência de "ilegalidade ou abuso de poder" no ato judicial impugnado, ainda que substitutivo do recurso expressamente previsto para o caso (STF, HC 121.537, Min. Marco Aurélio, Primeira Turma; HC 111.670, Min. Cármen Lúcia, Segunda Turma; STJ, HC 277.152, Min. Jorge Mussi, Quinta Turma; HC 275.352, Min. Maria Thereza de Assis Moura, Sexta Turma).02. De ordinário, a competência para processar e julgar ação penal é do Juízo do "lugar em que se consumar a infração" ( CPP, art. 70, caput). Será determinada, por conexão, entre outras hipóteses, "quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração" (art. 76, inc. III).Os tribunais têm decidido que:
+
+---
+
+Fatos:
+O caso envolve um habeas corpus impetrado no contexto da "Operação Lava Jato", em que o paciente foi denunciado por crimes contra o sistema financeiro e organização criminosa. A defesa argumenta que a competência para julgar o caso seria da Justiça Federal de Brasília, onde parte das infrações teriam ocorrido, e não de Curitiba, como decidido. Além disso, alega prevenção da Sexta Turma do Superior Tribunal de Justiça para julgar o caso, devido a um habeas corpus anterior relacionado ao mesmo inquérito. O Tribunal Regional Federal da 4a Região negou o pedido, afirmando que a questão de competência não pode ser analisada em habeas corpus sem prova pré-constituída.
+
+---
+
+Inteiro Teor:
+HABEAS CORPUS Nº 301.688 - PR (2014/0204745-0)
+RELATOR : MINISTRO Nome (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+IMPETRANTE : Nome E OUTROS
+ADVOGADO : Nome E OUTRO (S)
+IMPETRADO : TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO
+PACIENTE : Nome
+ADVOGADO : Nome
+EMENTA
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. OPERAÇÃO "LAVA JATO". CRITÉRIOS PARA DEFINIÇÃO DE COMPETÊNCIA NA PRIMEIRA INSTÂNCIA. CONEXÃO INSTRUMENTAL. INOCORRÊNCIA DE PREVENÇÃO DA SEXTA TURMA DESTA CORTE PARA ANÁLISE DO WRIT. HABEAS CORPUS NÃO CONHECIDO.
+01. Prescreve a Constituição da Republica que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder" (art. 5º, inc. LXVIII). O Código de Processo Penal impõe aos juízes e aos tribunais que expeçam, "de ofício, ordem de habeas corpus , quando, no curso de processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal" (art. 654, § 2º). Desses preceptivos constitucional e legal se infere que no habeas corpus devem ser conhecidas quaisquer questões de fato e de direito relacionadas a constrangimento ou ameaça de constrangimento à liberdade individual de locomoção. Por isso, impõe-se seja processado para aferição da existência de "ilegalidade ou abuso de poder" no ato judicial impugnado, ainda que substitutivo do recurso expressamente previsto para o caso (STF, HC 121.537, Min. Nome, Primeira Turma; HC 111.670, Min. Nome, Segunda Turma; STJ, HC 277.152, Min. Nome, Quinta Turma; HC 275.352, Min. Nome, Sexta Turma).
+02. De ordinário, a competência para processar e julgar ação penal é do Juízo do "lugar em que se consumar a infração" (CPP, art. 70, caput). Será determinada, por conexão, entre outras hipóteses, "quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração" (art. 76, inc. III).
+Os tribunais têm decidido que: I) "Quando a prova de uma infração influi direta e necessariamente na prova de outra há liame probatório suficiente a determinar a conexão instrumental"; II) "Em regra a questão relativa à existência de conexão não pode ser analisada em habeas corpus porque demanda revolvimento do conjunto probatório, sobretudo, quando a conexão é instrumental; todavia, quando o impetrante oferece prova pré-constituída, dispensando dilação probatória, a análise do pedido é possível" (HC 113.562/PR, Rel. Ministra Nome [Desembargadora convocada do TJ/MG], Sexta Turma, julgado em 09/06/2009; STF, HC 114.689, Rel. Ministro Nome, Segunda Turma, DJe
+13/08/2013).
+03. Conforme decidido no Habeas Corpus n. 302.604/PR, compete à Quinta Turma do Superior Tribunal de Justiça processar e julgar habeas corpus de ações penais originárias da denominada "Operação Lava Jato".
+04. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Nome (Desembargador convocado do TJ/PE), Nome, Nome e Nome votaram com o Sr. Ministro Relator.
+Brasília (DF), 17 de março de 2015 (Data do Julgamento)
+MINISTRO Nome
+(DESEMBARGADOR CONVOCADO DO TJ/SC)
+Relator
+HABEAS CORPUS Nº 301.688 - PR (2014/0204745-0)
+RELATOR : MINISTRO Nome (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+IMPETRANTE : Nome E OUTROS
+ADVOGADO : Nome E OUTRO (S)
+IMPETRADO : TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO
+PACIENTE : Nome
+ADVOGADO : Nome
+RELATÓRIO
+O EXMO. SR. MINISTRO Nome (DESEMBARGADOR CONVOCADO DO TJ/SC) (Relator):
+Nome , investigado no âmbito da denominada "Operação Lava-Jato" (Inquérito Policial n. 5001438-85.2014.404.7000), em 22.04.2014 foi denunciado por infração aos arts. 16, 22 e 22, parágrafo único, ambos da Lei n. 7.492/1986, e aos arts. 1º, 2º, § 2º e § 4º, incs. II, III, IV e V, ambos da Lei n. 12.850/2013 (fls. 195/226).
+Em 17.02.2014, teve decretada a prisão preventiva (fls. 324/347).
+Pelas razões sintetizadas na ementa do acórdão, a seguir parcialmente reproduzida, a Oitava Turma do Tribunal Regional Federal da Quarta Região denegou o habeas corpus impetrado, em 10.04.2014, por seus defensores:
+"1. A incompetência do juízo deve ser questionada pela via da exceção no prazo de defesa, como previsto no art. 108 do Código de Processo Penal.
+2. O habeas corpus , em razão do seu rito célere, não se apresenta adequado para o enfrentamento de matéria que não se mostra clara e induvidosa de pronto, sendo incompatível com a instrução probatória e o exame aprofundado de provas.
+3. Tratando-se de matéria complexa, o enfrentamento da alegação de incompetência mostra-se incabível na via estreita do writ.
+4. Excepcionalmente, se conhece da matéria afeta à competência pela via do habeas corpus , mas limitado exclusivamente, em juízo perfunctório, a verificar a competência do magistrado para a decretação da prisão preventiva.
+5. Iniciada a investigação para apuração de crimes financeiros praticados no Estado do Paraná, a competência é fixada em face do Juízo Federal da 13a Vara de Curitiba/PR, especializada na matéria para todo o Estado, inclusive para os crimes conexos e correlatos.
+6. Não sendo flagrante a incompetência do juízo a quo , inexiste, por este aspecto, nulidade no ato prisional.
+7. A prisão provisória é medida rigorosa que, no entanto, se justifica nas hipóteses em que presente a necessidade para tanto e sendo necessária a
+demonstração da existência de indícios da materialidade do crime, bem como que haja indício suficiente da autoria. Verificada a presença dos elementos necessários à aplicação da prisão preventiva.
+8. A reiteração das condutas delituosas imputadas ao paciente demonstra não só sua indiferença perante o direito, mas também sua intenção de continuar praticando crimes, revelando maior à ordem pública e a necessidade de cessar a atividade criminosa.
+9. O reconhecimento do excesso de prazo da instrução é medida excepcional, somente admissível quando a demora for injustificada, impondo-se a adoção de critério de razoabilidade no exame da sua eventual ocorrência.
+10. Os prazos para conclusão de inquérito policial ou instrução criminal não são peremptórios, podendo ser dilatados dentro de limites razoáveis, quando a complexidade da investigação assim exigir" (fls. 276/277).
+Inconformados, manejaram, nesta Corte, novo habeas corpus, sustentando, em síntese, que: a) "uma vez que houve habeas corpus [n. 111.637/PR, Min. Nome] anterior sobre matéria referente ao mesmo inquérito policial originário que o presente, distribuído a 6a Turma deste egrégio Superior Tribunal de Justiça, nos termos do art. 71 do regimento interno deste egrégio Órgão Colegiado, a prevenção para processamento e julgamento do presente writ é da 6a Turma deste colendo Tribunal"; b) "uma vez que as condutas imputadas ao paciente e aos integrantes do denominado 'Núcleo Chater' teriam ocorrido na cidade de Brasília - local onde os depósitos e as transferências bancárias de valores de origem supostamente ilícita teriam sido efetivadas - os crimes imputados a essas pessoas teriam, também sido consumados na Capital Federal, devendo, pois, ser julgados nessa Unidade da Federação, de acordo com as normas básicas de direito material e processual penal" (fls. 01/57).
+A Ministra Nome, então Relatora, indeferiu a liminar postulada (fls. 488/491).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 665/671).
+É o relatório.
+HABEAS CORPUS Nº 301.688 - PR (2014/0204745-0)
+RELATOR : MINISTRO Nome (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+IMPETRANTE : Nome E OUTROS
+ADVOGADO : Nome E OUTRO (S)
+IMPETRADO : TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO
+PACIENTE : Nome
+ADVOGADO : Nome
+VOTO
+O EXMO. SR. MINISTRO Nome (DESEMBARGADOR CONVOCADO DO TJ/SC) (Relator):
+01. Na ementa do acórdão relativo ao Habeas Corpus n. 300.638/MS, julgado em 24/02/2015, assentei:
+"Prescreve a Constituição da Republica que 'conceder-se-á habeas-corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder' (art. 5º, inc. LXVIII). O Código de Processo Penal impõe aos juízes e aos tribunais que expeçam, ' de ofício, ordem de habeas corpus , quando, no curso de processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal' (art. 654, § 2º). Desses preceptivos constitucional e legal se infere que no habeas corpus devem ser conhecidas quaisquer questões de fato e de direito relacionadas a constrangimento ou ameaça de constrangimento à liberdade individual de locomoção. Por isso, impõe-se seja processado para aferição da existência de ' ilegalidade ou abuso de poder' no ato judicial impugnado, ainda que substitutivo do recurso expressamente previsto para o caso (STF, HC 121.537, Min. Nome, Primeira Turma; HC 111.670, Min. Nome, Segunda Turma; STJ, HC 277.152, Min. Nome, Quinta Turma; HC 275.352, Min. Nome, Sexta Turma) ."
+O precedente se aplica ao caso em exame.
+Não há como conhecer do habeas corpus , porque substitutivo de recurso. Porém, deve ser processado "para aferição da existência de 'ilegalidade ou abuso de poder' no ato judicial impugnado".
+02. Em 25/11/2014, ao julgar o Habeas Corpus n. 302.604/PR, impetrado em favor de Nome , paciente também investigado na denominada operação "Lava-Jato", decidiu a Quinta Turma:
+"De ordinário, a competência para processar e julgar ação penal é do Juízo do ' lugar em que se consumar a infração' (CPP, art. 70, caput ). Será determinada, por conexão, entre outras hipóteses, ' quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração ' (art. 76, inc. III).
+Os tribunais têm decidido que: I) ' Quando a prova de uma infração influi direta e necessariamente na prova de outra há liame probatório suficiente a determinar a conexão instrumental '; II) ' Em regra a questão relativa à existência de conexão não pode ser analisada em habeas corpus porque demanda revolvimento do conjunto probatório, sobretudo, quando a conexão é instrumental; todavia, quando o impetrante oferece prova pré-constituída, dispensando dilação probatória, a análise do pedido é possível ' (HC 113.562/PR, Min. Nome, Sexta Turma, DJe de 03/08/09)".
+No que concerne à prevenção da Sexta Turma desta Corte para processar e julgar os habeas corpus relacionados com a referida operação e com os critérios de definição da competência territorial na primeira instância, no voto que posteriormente passou a integrar o acórdão, consignei:
+"Quanto à competência da Turma para processar e julgar o habeas corpus, reproduzo os termos da decisão do Ministro Nome, na qual declinou dessa mesma competência:
+'Estes autos, distribuídos à Ministra Nome em 27/8/2014 por prevenção do HC n. 291.013, foram redistribuídos, em 12/9/2014, por prevenção de Turma, conforme os despachos de fls. 1.229/1.230, 17.547 e 17.561.
+Creio, porém, que a distribuição prévia do HC n. 111.637/PR, relativo ao inquérito-matriz (2004.70.00.033532-7/PR ou 0033532-26.2004.404.7000), o qual nem sequer envolvia o ora paciente, não tem o condão de prevenir a competência da Sexta Turma para processar e julgar este habeas corpus , vinculado a superveniente investigação policial, no caso, concernente às ditas Operação Bidone, Operação Bidone 2 e Operação Bidone 3, que seriam desdobramento da Operação Lava-Jato.
+Segundo meu entendimento, os feitos que devem ser considerados para determinar a distribuição por dependência, neste caso, possuem os seguintes números originários, de acordo com a denúncia (5049597-93.2013.404.7000, relativo à interceptação telefônica e telemática de corréu; 5027775-48.2013.404.7000, concernente à quebra de sigilo bancário de corréus; 50079992-36.2014.404.7000, referente à quebra de sigilo bancário e fiscal de diversas empresas; 5001446-62.2014.404.7000, atinente a pedido de busca e apreensão e de prisão; 5014901-94.2014.404.7000, alusivo a pedido de prisão preventiva e novas buscas; 5021466-74.2014.404.7000, tocante a pedido de busca e apreensão e condução coercitiva; e 5010109-97.2014.404.7000, relativo a pedido de desmembramento). Nenhum deles serviu de parâmetro para distribuição do HC n. 111.637/PR, que, aliás, foi julgado prejudicado.
+Diante disso e do previsto no art. 9º da Instrução Normativa n. 2, de
+10/2/2010, encaminhem-se os autos à Secretaria Judiciária para redistribuição deste writ por prevenção do Ministro Nome (Desembargador convocado do TJ/SC), sucessor da Ministra Nome na Quinta Turma, a quem tinham sido anteriormente distribuídos, entre outros, os HC n. 291.013, 291.560, 292.232, 293.186, 293.443, 293.448, 298.870, a MC n. 22.644 e os RHC n. 47.599 e 47.870' (fls. 17567/17568).
+[...]
+Prescreve o Código de Processo Penal que ' a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução ' (art. 70, caput).
+Todavia, também preceitua que:
+'Art. 76. A competência será determinada pela conexão:
+I - se, ocorrendo duas ou mais infrações, houverem sido praticadas, ao mesmo tempo, por várias pessoas reunidas, ou por várias pessoas em concurso, embora diverso o tempo e o lugar, ou por várias pessoas, umas contra as outras;
+II - se, no mesmo caso, houverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas;
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração' .
+Sobre a competência por conexão probatória ou instrumental, leciona Nome que os processos - ainda que na fase investigatória - devem ser reunidos 'se a prova de uma infração servir, de algum modo, para a prova de outra, bem como se as circunstâncias elementares de uma terminarem influindo para a prova de outra' ( Código de processo penal comentado, Revista dos Tribunais, 2009, 9a ed., fl. 234).
+Com ele consoa Nome:
+'Finalmente, o inciso III define a conexão instrumental ou probatória, 'quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração'. A expressão 'influir' é demasiadamente ampla, até mesmo porque não se define o grau de influência necessária para caracterizar o nexo entre as infrações a impor a união dos processos. Em busca de delimitação de tal conceito, parte da doutrina tem entendido que não basta qualquer influência, sendo necessário que haja uma relação de prejudicialidade entre os delitos. Assim, a conexão probatória ou instrumental encontraria seu fundamento na 'manifesta prejudicialidade homogênea'. O exemplo sempre lembrado é o da conexão entre o furto e a receptação, dado que, para se condenar o receptador, é preciso provar que a coisa adquirida era produto de crime. Assim, o furto é prejudicial em relação à receptação, pelo que ambos devem ser apreciados conjuntamente' (Processo penal, Campus Elsevier, 2012, 1a ed., fls. 174/175).
+Em suma: 'A conexão no processo dá-se em favor da jurisdição de modo a facilitar a colheita da prova, evitar decisões contraditórias e permitir cognição mais profunda e exauriente da matéria posta a julgamento. O simples encontro fortuito de prova de infração que não possui relação com o objeto da investigação em andamento não enseja o simultaneus processus' (STF, RHC
+n. 120.379, Rel. Ministro Nome, Primeira Turma, DJe 24/10/2014). Ademais, em sede de habeas corpus, não é possível valorar a prova para
+afastar a conexão instrumental.
+Traslado, parcialmente, ementas de acórdãos versando sobre a matéria, as quais aplicam-se, mutatis mutandis, ao caso em análise:
+'Consolidou-se na jurisprudência do STF que, para configurar-se a conexão instrumental (CPrPen., art. 77, III), não bastam razões da mera conveniência no simultaneus processus, reclamando-se que haja vínculo objetivo entre os diversos fatos criminosos ; esse liame, porém, de reconhecer-se entre o crime imputado a particulares e a concussão que, contra eles, seja praticado por policiais, que reclamam vantagens patrimoniais ilícitas para não efetivar a sua prisão em flagrante' (HC 81811, Rel. Ministro Nome, Primeira Turma, DJe 22/11/2002 - o destaque não consta do original).
+'I - Crimes de pedofilia e pornografia infantil praticados no mesmo contexto daquele de estupro e atentado violento ao pudor, contra as mesmas vítimas. Reunião dos processos, em virtude da existência de vínculo objetivo entre os diversos fatos delituosos e de estarem imbricadas as provas coligidas para os autos, nos quais foram apuradas as práticas das condutas incriminadas .
+II - Há conexidade instrumental: a prova relacionada à apuração de um crime influirá na do outro, razão pela qual é competente para conhecer da controvérsia a Justiça Federal' (HC n. 114.689, Rel. Ministro Nome, Segunda Turma, DJe 29/08/2013 - o destaque não consta do original).
+'1. Em regra a questão relativa à existência de conexão não pode ser analisada em habeas corpus porque demanda revolvimento do conjunto probatório, sobretudo, quando a conexão é instrumental; todavia, quando o impetrante oferece prova pré-constituída, dispensando dilação probatória, a análise do pedido é possível .
+2. Em regra, a competência do Juízo para processar e julgar a causa é determinada pelo critério do local em que o delito se consumou, contudo, a conexão pode funcionar como critério modificativo da competência.
+3. A ação penal que se refere à conduta praticada para ocultar outro crime ou para nele conseguir impunidade é conexa objetivamente àquela em relação a qual se pretendia a impunidade.
+4. Quando a prova de uma infração influi direta e necessariamente na prova de outra há liame probatório suficiente a determinar a conexão instrumental .
+5. Não há avocação de competência quando esta é declinada por um dos Juízos para o outro em face da conexão.
+6. Embora a conexão tenha por finalidade garantir a união dos processos para uma melhor apreciação da prova pelo Juízo, evitando-se decisões conflituosas, pode ocorrer a inconveniência dessa junção, ensejando o trâmite separado, mas mantendo-se, por corolário, o mesmo Juízo.
+7. Pedido conhecido e, nessa extensão, ordem denegada' (HC 113.562/PR, Rel. Ministra Nome, SEXTA TURMA, DJe 03/08/2009 - o destaque não consta do original).
+'A finalidade da regra da conexão instrumental contida no art. 76, III, do CPP, é a de atender à celeridade e à economia processual, além de garantir a segurança jurídica e proteger a instrução criminal, de sorte a impedir que processos penais originados de uma mesma estrutura corram em Juízos diversos' (CC 114.034/SP, Rel. Ministra Nome, TERCEIRA SEÇÃO, DJe 01/02/2011).
+''A jurisprudência do Supremo Tribunal Federal tem firmado o entendimento de que, para restar configurada a conexão instrumental, não bastam razões de mera conveniência no 'simultaneus processus', reclamando-se que haja vínculo objetivo entre os diversos fatos criminosos ' (HC n. 56.128/ES, Ministro Nome, Quinta Turma, DJ 6/8/2007)' (AgRg nos EDcl no REsp 1176548/RJ, Rel. Ministro Nome, SEXTA TURMA, DJe 14/10/2013 - o destaque não consta do original).
+'1. A competência para processar e julgar a ação penal é fixada, em regra, pelo critério do local em que o delito se consumou, podendo, contudo, a conexão determinar a sua modificação.
+2. A fixação da competência se deu de forma justificada e em conformidade com os critérios estabelecidos pelos arts. 76, II e 78, II, 'a' do Código Penal, ficando demonstrada a conexão probatória (instrumental).
+3. Excetuados os casos de patente ilegalidade ou abuso de poder, é vedada em sede de habeas corpus a análise do conjunto probatório, o que seria necessário ao se examinar as circunstâncias judiciais consideradas para a determinação da competência por conexão na forma do art. 76, II do CP ' (RHC 19.758/SP, Rel. Ministra Nome, SEXTA TURMA, DJe 16/05/2013 - o destaque não consta do original).
+[...]".
+Valho-me desses fundamentos para rejeitar as teses de que "a prevenção para processamento e julgamento do presente writ é da 6a Turma deste colendo Tribunal" e de que a competência para o processamento da ação penal deve ser "firmada pelo foro do local onde ocorreu a consumação (locus delicti commissi ), neste caso, a Justiça Federal de Brasília".
+03. À vista do exposto, não conheço do habeas corpus.
+É o voto.
+CERTIDÃO DE JULGAMENTO
+QUINTA TURMA
+Número Registro: 2014/0204745-0 PROCESSO ELETRÔNICO HC 301.688 / PR
+MATÉRIA CRIMINAL
+Números Origem: 111637 200370000289179 200470000024140 200470000068064 200470000335327
+200670000121774 200670000186628 200801635955 50014388520144047000
+50025687032014404700 50076013220144040000 50263871320134047000
+50266631020144047000 50418612420134047000 50429568920134047000
+50472297720144047000 6162004 7142009
+EM MESA JULGADO: 17/03/2015
+Relator
+Exmo. Sr. Ministro Nome (DESEMBARGADOR CONVOCADO DO TJ/SC) Presidente da Sessão
+Exmo. Sr. Ministro Nome
+Subprocurador-Geral da República
+Exmo. Sr. Dr. Nome
+Secretário
+Bel. Nome
+AUTUAÇÃO
+IMPETRANTE : Nome E OUTROS
+ADVOGADO : Nome E OUTRO (S)
+IMPETRADO : TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO
+PACIENTE : Nome
+ADVOGADO : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+CORRÉU : Nome
+ASSUNTO: DIREITO PENAL - Crimes Previstos na Legislação Extravagante - Crimes contra o Sistema
+Financeiro Nacional
+CERTIDÃO
+Certifico que a egrégia QUINTA TURMA, ao apreciar o processo em epígrafe na sessão realizada nesta data, proferiu a seguinte decisão:
+"A Turma, por unanimidade, não conheceu do pedido."
+Os Srs. Ministros Nome (Desembargador convocado do TJ/PE),
+Nome, Nome e Nome votaram com o Sr. Ministro Relator.

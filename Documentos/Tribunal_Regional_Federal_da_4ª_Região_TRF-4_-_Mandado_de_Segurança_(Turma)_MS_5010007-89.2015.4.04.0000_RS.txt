@@ -1,0 +1,350 @@
+URL: https://www.jusbrasil.com.br/jurisprudencia/trf-4/426265274
+
+Ementa:
+"OPERAÇÃO LAVA-JATO". QUEBRA DE SIGILO FISCAL. INTIMIDADE. AUSÊNCIA DE CARÁTER ABSOLUTO. ART. 1º, § 4º, LC Nº 105/2001. ADEQUAÇÃO LEGAL. INDÍCIOS. CONTRATOS SIMULADOS. CONTEXTO DAS INVESTIGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. LEGALIDADE DAS RELAÇÕES COMERCIAIS. INVIABILIDADE DE ANÁLISE EM SEDE MANDAMENTAL. AUSÊNCIA DE CONTRADITÓRIO E PROVA PRECONSTITUÍDA.
+
+---
+
+Inteiro Teor:
+Inteiro Teor
+MANDADO DE SEGURANÇA (TURMA) Nº 5010007-89.2015.404.0000/PR
+RELATOR
+:
+JOÃO PEDRO GEBRAN NETO
+IMPETRANTE
+:
+L. E. D. O. E. S.
+:
+JD ASSESSORIA E CONSULTORIA LTDA
+:
+J. D. D. O. E. S.
+ADVOGADO
+:
+JUAREZ CIRINO DOS SANTOS
+:
+JUNE CIRINO DOS SANTOS
+:
+JAIR CIRINO DOS SANTOS
+IMPETRADO
+:
+Juízo Federal da 13ª VF de Curitiba
+INTERESSADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+:
+POLÍCIA FEDERAL/PR
+EMENTA
+"OPERAÇÃO LAVA-JATO". QUEBRA DE SIGILO FISCAL. INTIMIDADE. AUSÊNCIA DE CARÁTER ABSOLUTO. ART. 1º, § 4º, LC Nº 105/2001. ADEQUAÇÃO LEGAL. INDÍCIOS. CONTRATOS SIMULADOS. CONTEXTO DAS INVESTIGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. LEGALIDADE DAS RELAÇÕES COMERCIAIS. INVIABILIDADE DE ANÁLISE EM SEDE MANDAMENTAL. AUSÊNCIA DE CONTRADITÓRIO E PROVA PRECONSTITUÍDA.
+1. "O sigilo bancário é garantido pela Constituição Federal como direito fundamental para guardar a intimidade das pessoas desde que não sirva para encobrir ilícitos" (RESP 200501801179, LUIZ FUX, STJ - PRIMEIRA TURMA, DJ DATA: 02/04/2007);
+2. "O direito ao sigilo das informações bancárias e fiscais, eminentemente de caráter individual, não é absoluto, podendo ser mitigado em face do interesse público, quando restarem evidenciadas circunstâncias que justifiquem a sua restrição". Precedente do STJ (HC 274.150/BA, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 24/04/2014, DJe 08/05/2014).
+3. Não caracterização de que se cuide de medida destinada a proporcionar verdadeira e condenável devassa fiscal da empresa e de seus sócios, porque fundada em fortes indicativos do cometimento de crimes de corrupção, de licitação contra a Petrobras e lavagem de dinheiro por empresas prestadoras de serviços de consultoria.
+4. A necessidade da investigação da pessoa jurídica e de seus sócios tem suporte em quebras de sigilo anteriores, deferidas contra construtoras investigadas na "Operação Lava-Jato" e que figuram como responsáveis por pagamentos de consultoria à impetrante pessoa jurídica.
+5. Contextualizados os fundamentos da quebra de sigilo no âmbito da "Operação Lava-Jato", pesa em prol da autorização de rastreamento o fato de eventual licitude de pagamentos feitos pelas empreiteiras investigadas em favor da empresa impetrante com base em contratos suspeitamente simulados.
+6. Surgem como indicativos de lavagem de dinheiro, (as chamadas "red flags", Departamento de Justiça Americano), (a) o pagamento de comissões excessivas a agentes ou consultores; (b) a concessão de descontos excessivos e desproporcionais em favor de terceiros; (c) a celebração de "contratos de consultoria", que incluem serviços apenas vagamente descritos; (d) os contratos de consultoria cujo objeto não se coaduna com a atividade profissional do contratado ou do contratante; (e) o fato de um terceiro estar relacionado ou intimamente associado com a autoridade; (f) o fato de o terceiro tornar-se parte da transação a pedido expresso ou insistência do funcionário estrangeiro; (g) o fato de o terceiro ser apenas uma empresa de fachada constituída em uma jurisdição offshore; e (h) o fato de o terceiro solicita o pagamento em favor de offshore.
+7. Em crimes de lavagem de dinheiro, a quebra dos sigilos bancário e fiscal é fundamental para demonstrar a cadeia delitiva e o caminho marcado pelo dinheiro até o clareamento. Dada a natureza dos crimes, mostra-se imprescindível o rastreamento dos ativos ocultados ou clareados ("follow money") para identificar a cadeia delitiva e todos os seus partícipes.
+8. Inviável em mandado de segurança, porquanto desprovido de amplo contraditório e sujeito à prova pré-constituída, a aferição da legalidade e veracidade dos contratos que amparariam o direito líquido e certo dos impetrantes.
+9. Segurança denegada.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia 8a. Turma do Tribunal Regional Federal da 4ª Região, por unanimidade, denegar a segurança, nos termos do relatório, votos e notas taquigráficas que ficam fazendo parte integrante do presente julgado.
+
+Porto Alegre, 06 de maio de 2015.
+Desembargador Federal João Pedro Gebran Neto
+Relator
+MANDADO DE SEGURANÇA (TURMA) Nº 5010007-89.2015.404.0000/PR
+RELATOR
+:
+JOÃO PEDRO GEBRAN NETO
+IMPETRANTE
+:
+L. E. D. O. E. S.
+:
+JD ASSESSORIA E CONSULTORIA LTDA
+:
+J. D. D. O. E. S.
+ADVOGADO
+:
+JUAREZ CIRINO DOS SANTOS
+:
+JUNE CIRINO DOS SANTOS
+:
+JAIR CIRINO DOS SANTOS
+IMPETRADO
+:
+Juízo Federal da 13ª VF de Curitiba
+INTERESSADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+:
+POLÍCIA FEDERAL/PR
+RELATÓRIO
+Trata-se de mandado de segurança impetrado por L. E. D. O. E. S., JD ASSESSORIA E CONSULTORIA LTDA e J. D. D. O. E. S. contra decisões proferidas pelo Juízo da 13ª Vara Federal de Curitiba/PR, nos autos do Pedido de Quebra de Sigilo de Dados e/ou Telefônicos nº 5085623-56.2014.404.7000/PR, relacionado à "Operação Lava Jato", que determinaram a quebra de sigilo fiscal e bancário dos impetrantes (eventos 4 e 11).
+Sustentam os impetrantes, em síntese, que: (a) a Constituição Federal l assegura a privacidade e a inviolabilidade da vida privadas (art. 5º, X) e também da correspondência e comunicações, exceto para fins de investigação criminal ou instrução processual (art. 5º, XII); (b) a LC nº 105 5/01 estabelece que a exceção à regra constitucional somente pode ser superada diante da existência de ilícito como objeto de apuração e a quando imprescindível para apuração do delito; (c) as decisões deprimeiroo grau são ilegais, porque não demonstram os fundamentos legais para a ruptura da garantia constitucional ou porque os fundamentos adotados não são acolhidos pela jurisprudência; (d) as quebras de sigilo fundam-se em contratos de prestação de serviço de consultoria firmados entre a empresa JD ASSESSORIA E CONSULTORIA LTDA e diversas construtoras, contratos estes que constituem atos jurídicos perfeitos e acabados, sem qualquer mácula de ilicitude penal; (e) os fatos devem ser imputados às construtoras investigadas na "Operação Lava Jato", não aos impetrantes; (f) a quebra de sigilo deve ter fundamento em fatos concretos e não pode servir como pesquisa exploratória; (g) a quebra de sigilo somente tem lugar quando não houver outros meios menos gravosos de investigação e que é falsa a conclusão lançada na decisão atacada no sentido de que inexistia outro meio de colher a prova.
+Defendem os impetrantes, ainda, a necessidade de suspensão das investigações porque a devassa dos dados bancários e fiscais é capaz de causar-lhes prejuízos irreparáveis. Postularam a concessão de medida liminar para suspender o ato judicial e, ao final, a concessão da segurança para que seja declarada a nulidade do ato judicial e o desentranhamento dos autos de todo o material apurado com a quebra.
+
+Após saneada a representação processual, o pedido liminar foi examinado e indeferido (evento 20).
+
+A autoridade coatora prestou informações (evento 27).
+
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da segurança (evento 30).
+
+É o relatório. Peço dia.
+
+Desembargador Federal João Pedro Gebran Neto
+Relator
+MANDADO DE SEGURANÇA (TURMA) Nº 5010007-89.2015.404.0000/PR
+RELATOR
+:
+JOÃO PEDRO GEBRAN NETO
+IMPETRANTE
+:
+L. E. D. O. E. S.
+:
+JD ASSESSORIA E CONSULTORIA LTDA
+:
+J. D. D. O. E. S.
+ADVOGADO
+:
+JUAREZ CIRINO DOS SANTOS
+:
+JUNE CIRINO DOS SANTOS
+:
+JAIR CIRINO DOS SANTOS
+IMPETRADO
+:
+Juízo Federal da 13ª VF de Curitiba
+INTERESSADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+:
+POLÍCIA FEDERAL/PR
+VOTO
+A primeira decisão do juízo a quo, objeto da impetração, foi proferida pela Juíza Federal Substituta Gabriela Hardt com os seguintes fundamentos (evento 4):
+
+Oportuno um breve histórico.
+Tramitam por este Juízo diversos inquéritos, ações penais e processos incidentes relacionados à assim denominada Operação Lavajato.
+Já foram propostas dez ações penais e ainda há investigações em andamento que podem resultar em outras. A dez já propostas tem os números 5025687-03.2013.2014.404.700, 5047229-77.2014.404.7000, 5026663-10.2014.404.7000, 5025699-17.2014.404.7000, 5049898-06.2014.404.7000, 5026212-82.2014.404.7000, 5025692-25.2014.404.7000, 5026243-05.2014.404.7000, 5025676-71.2014.404.7000 e 5025695-77.2014.404.7000. Duas delas já foram julgadas, outras aproximam-se da fase de julgamento.
+Em breve síntese, na Operação Lavajato, foram identificados quatro grupos criminosos dedicados principalmente à prática de lavagem de dinheiro e de crimes financeiros no âmbito do mercado negro de câmbio. Os quatro grupos seriam liderados pelos supostos doleiros Carlos Habib Chater, Alberto Youssef, Nelma Mitsue Penasso Kodama e Raul Henrique Srour.
+A investigação, com origem nos inquéritos 2009.7000003250-0 e 2006.7000018662-8, tinha por objeto inicial supostas operações de lavagem de produto de crimes contra a Administração Pública e que teriam se consumado com a realização de investimentos industriais, com recursos criminosos, na cidade de Londrina/PR. Este crime de lavagem, consumado em Londrina/PR, se submete à competência da 13ª Vara Federal de Curitiba, tendo dado origem à ação penal 5047229-77.2014.404.7000 acima já referida, na qual figuram como acusados Carlos Habib Chater, Alberto Youssef e subordinados.
+A partir de interceptação telefônica autorizada em 11/07/2013 no processo 5026387-13.2013.404.7000, passou-se a investigar o grupo criminoso dirigido por Carlos Habib Chater e a, a partir dele, foram identificados os outros grupos criminosos, em decorrência de transações comuns.
+Entre os grupos criminosos, merece destaque o dirigido por Alberto Youssef.
+Incidentalmente, foram descobertas relações dele com Paulo Roberto Costa, ex-Diretor de Abastecimento da Petróleo Brasileiro S/A - Petrobras.
+Em decorrência, foram ambos acusados no âmbito da acima referida ação penal 5026212-82.2014.404.7000, que tem por objeto crimes de lavagem de dinheiro desviado de obras da Petrobras, especificamente da Refinaria Abreu e Lima.
+Transcrevo da decisão de recebimento da denúncia proferida pelo MM Juiz Sergio Moro:
+
+"Na refinaria, coube ao Consórcio Nacional Camargo Correa - CNCC, controlado pela empresa Construções Camargo e Correa S/A, a construção da Unidade de Coqueamento Retardado-UCR, contrato 0800.00534457.09.2. Haveria indícios de que o referido contrato teria sido superfaturado, conforme conclusões efetuadas pelo Tribunal de Contas da União - TCU, processo 004.025/2011-3. O TCU teria apontado, no referido contrato, superfaturamento entre R$ 446.217.623,17 e R$ 207.956.051,72. Cópia da auditoria e das conclusões do TCU instruem a denúncia.
+Na execução do contrato, o CNCC teria contratado as empresas Sanko Sider Ltda. e a Sanko Serviços de Pesquisa e Mapeamento, dos acusados Murilo Barrios e Márcio Bonilho, para fornecimento de materiais e serviços. quebra de sigilo fiscal revelou o repasse de cerca de R$ 113.000.000,00 entre 2009 e 2013 do CNCC as duas empresas.
+Durante as investigações que levaram à propositura da denúncia, foram identificadas diversas transferências efetuadas pelas empresas Sanko Sider e Sanko Serviços às empresas MO Consultoria e Laudos Estatísticos e GFD Investimentos.
+Cerca de R$ 26.040.314,18, entre 2009 e 2013, foram transferidos, em setenta transações, das empresas Sanko Sider e Sanko Serviços somente à MO Consultoria, como revelado por quebras autorizadas judicialmente de sigilo bancário e fiscal, bem como por planilhas apreendidas durante a investigação criminal.
+Segundo a denúncia, as empresas MO e GFD são de fato controladas pelo acusado Alberto Youssef, embora colocadas em nome de pessoas interpostas. A MO seria empresa meramente de fachada, sem existência real, enquanto a GFD seria utilizada para ocultação do patrimônio de Alberto Youssef.
+Ainda segundo a denúncia, as transferências não teriam justificativa econômica lícita e caracterizariam lavagem dos valores previamente superfaturados na construção da Refinaria Abreu e Lima.
+A conta da MO Consultoria teria recebido ainda valores de outras empresas que prestaram serviços para o CNCC, mas essas transferências não compõem o objeto da presente ação penal.
+Apesar da referência acima às transferências para a GFD constantes nas planilhas, a denúncia presente também não as abrange.
+Parte dos valores destinados a MO Consultoria teria sido, supervenientemente, pulverizado em saques em espécie e em transferências para contas controladas por Alberto Youssef, como Labogen Química, Indústria Labogen, Piroquímica, RCI Software e Empreiteira Rigidez, bem como para conta pessoal do acusado Waldomiro Oliveira.
+Parte dos valores transferidos às empresas Labogen Química, Indústria Labogen e Piroquímica foi, ulteriormente, remetida ao exterior mediante contratos de câmbio fraudulentos para pagamento de importações fictícias."
+
+Em síntese, valores desviados das obras, em montantes milionários, tendo por origem recursos da empresa estatal, foram, segundo o MPF, repassados sucessivamente para o Consórcio Nacional Camargo Correa, responsável pelas obras, deste para as empresas Sanko Sider e Sanko Serviços, fornecedoras de material para as obras, e destas para empresas controladas por Alberto Youssef, especialmente a MO Consultoria e a GDF Investimentos, em pagamentos simulados de serviços por estas prestados.
+Aprofundando as investigações, foram colacionadas provas, em cognição sumária, de um esquema criminoso de certa magnitude estruturado para desviar recursos de obras da Petrobrás, mediante fraudes a licitações, cartel de empreiteiras, lavagem de dinheiro e pagamento de vantagem indevida a dirigentes e gerentes da empresa estatal.
+As provas foram apreciadas pelo Juiz Federal Titular Sérgio Moro, ainda que em cognição sumária, em decisão datada de 10/11/2014 no processo 5073475-13.2014.404.7000 (evento 10), quando foram decretadas, a pedido da autoridade policial e do MPF, prisões cautelares de dirigentes de empreiteiras e outras pessoas associadas aos crimes, como Renato de Souza Duque e Fernando Antônio Falcão Soares.
+No presente caso, pretende o MPF rastrear pagamentos efetuados pelas empreiteiras Galvão Engenharia, OAS e UTC Engenharia à empresa de consultoria JD Assessoria, na qual alega figurar como sócios José Dirceu e L. E. D. O. E. S., supostamente irmãos.
+O Memorando 374/2014, elaborado pela Receita Federal e anexado pelo MPF aos autos (out2, evento 1), tinha como escopo identificar elementos indicativos da prática de crimes contra a ordem tributária por parte dos administradores das empresas Construtora OAS, Camargo Correa, UTC/Constran, Galvão Engenharia, Mendes Junior, Engevix e Odebrecht, em face de pagamentos realizados em favor de empresas que supostamente haviam prestado serviços de consultoria a elas, a exemplo da MO Consultoria, GFD Investimentos, Empreiteira Rigidez, dentre outras.
+Ao analisar os lançamentos contábeis das empreiteiras entre os anos de 2009 a 2013 foi possível confirmar a transferência de vultosos recursos às empresas listadas pelo MPF. A Receita Federal ressaltou, em acréscimo, que a empresa JD Assessoria e Consultoria Ltda recebeu também vultosos recursos da Galvão Engenharia, da Construtora OAS e da UTC Engenharia.
+Constata-se do teor do memorando que, dentre o período de julho de 2009 a dezembro de 2011, a empresa JD Assessoria recebeu, em média, R$ 25.000,00 mensais da Galvão Engenharia, sob a rubrica genérica de "consultoria", totalizando cerca de R$ 725.000,00. Já da Construtora OAS, a empresa JD recebeu, em média, R$ 30.000,00 mensais, sob a rubrica de "consultoria" e "subempreiteiros", no período de janeiro de 2010 a dezembro de 2011, totalizando cerca de R$ 720.000,00. Quanto à empresa UTC Engenharia, consta o pagamento de R$ 1.377.000,00 no ano de 2012 e de R$ 939.000,00, no ano de 2013, tendo como beneficiária a empresa JD Assessoria, também sob a rubrica genérica de "consultoria, assessoria e auditoria".
+Verifica-se, portanto, que no período de 2009 a 2013, a empresa JD Assessoria recebeu a expressiva quantia de R$ 3.761.000,00, a título de consultoria, das empreiteiras acima listadas, as quais estão sendo investigadas justamente pelo pagamento de serviços de consultoria fictícios a empresas diversas para viabilizar a distribuição de recursos espoliados do Poder Público.
+O objetivo da quebra é justamente identificar eventuais outros pagamentos suspeitos nas contas das pessoas ora investigadas.
+Há causa provável para a quebra de sigilo fiscal e bancário requerida pela autoridade policial, uma vez que necessária para verificar se os investigados foram ou não beneficiários do esquema de distribuição de recursos desviados da Petrobras.
+Por outro lado, em processos por crimes financeiros e de lavagem, o rastreamento patrimonial financeiro da origem e destino dos valores é imprescindível. Havendo suspeita nas transações efetuadas pelos investigados, é evidentemente necessária a quebra do sigilo.
+Havendo causa lícita para as transações apontadas pela Receita Federal, oportunamente será permitida a produção de prova neste sentido. Não é possível, na presente conjectura, afirmar em definitivo a (i) ilicitude dos pagamentos havidos, daí a imprescindibilidade da quebra requerida.
+Não há, ademais, outra forma de colher a prova.
+Assim, defiro o requerido pelo MPF, com fulcro nos artigos 1º, § 4º, da Lei Complementar n.º 105/2001 e 198 do CTN, decretando a quebra do sigilo bancário, no período de 01/01/2009 a 18/12/2014, e a quebra do sigilo fiscal, no período de 01/01/2005 a 18/12/2014, da seguinte pessoa jurídica:
+- JD Assessoria e Consultoria Ltda, CNPJ 03.008.230/0001-95.
+Quanto às pessoas físicas de J. D. D. O. E. S. e L. E. D. O. E. S., indefiro, por ora, o pedido de quebra, uma vez que sequer há comprovação de que foram eles sócios da empresa acima mencionada no período de 2009 a 2014, conforme alegado no parecer ministerial. Diligências promovidas pelo Gabinete deste Juízo comprovam apenas que figuram ou figuraram como sócios, além das pessoas físicas citadas, Julio Cesar dos Santos, sem existir informação precisa da época em que cada um participou ou se ainda participam da sociedade empresarial (cert1, evento 3).
+Caso o MPF anexe aos autos tais informações, retornem conclusos para nova análise.
+
+Posteriormente, diante da complementação do pedido por parte do Ministério Público Federal, a medida foi ampliada para as pessoas físicas que compõem o quadro societário da empresa impetrante. Confira-se (evento 11):
+
+Junta agora o MPF comprovante de que José Dirceu figura como sócio, com 40,00 das cotas de participação na empresa JD desde 1998 até a presente data. E que L. E. D. O. E. S. figura como sócio-administrador, com 60,00 das cotas de participação na empresa JD, desde 2008 até a presente data. Quanto a Julio Cesar dos Santos, informa que teve participação minoritária de 10,00, no período de 16/09/98 a 25/11/13. Reitera, assim, o pedido de quebra de sigilo fiscal e bancário de José Dirceu e Luiz Eduardo, nos períodos respectivos de 01/01/2005 a 18/12/14, e 01/01/09 a 18/12/14 (promocao1, evento 9).
+Trata-se, na prática, de mera extensão da quebra já deferida na data de 08/01/15 em desfavor da empresa JD Assessoria, a cujos fundamentos remeto, por amor à brevidade, e que são suficientes para justificar a quebra do sigilo também dos sócios da referida empresa, haja vista, conforme ali consignado, existirem elementos de informação que atestam o recebimento pela JD Assessoria, a título de contraprestação sob a rubrica genérica de consultoria, entre os anos de 2009 a 2013, da expressiva quantia de R$ 3.761.000,00, de empreiteiras que estão sendo investigadas justamente por contratarem serviços de consultoria fictícios a empresas diversas para viabilizar a distribuição de recursos expropriados da Administração Pública.
+O objetivo da quebra é verificar se os sócios eventualmente receberam recursos das empreiteiras investigadas e se tais recursos possuem causa (i) lícita.
+Não há meio investigativo menos gravoso para obter aludidos elementos de informação.
+Em processos por crimes financeiros e de lavagem, o rastreamento patrimonial financeiro da origem e destino dos valores é imprescindível. Havendo suspeita nas transações efetuadas pelos investigados, é evidentemente necessária a quebra do sigilo.
+Assim, e tendo em vista o quanto já exposto na decisão proferida no evento 4, com fulcro nos artigos 1º, § 4º, da Lei Complementar n.º 105/2001 e 198 do CTN, decreto a quebra do sigilo bancário, no período de 01/01/2009 a 18/12/2014, e a quebra do sigilo fiscal, no período de 01/01/2005 a 18/12/2014, das seguintes pessoas físicas:
+- J. D. D. O. E. S., CPF 033.620.088-95; e
+- L. E. D. O. E. S., CPF 030.769.038-53.
+A quebra de sigilo fiscal abrange todos os elementos disponíveis à Receita Federal, a exemplo das declarações relativas a imposto, dados de movimentação financeira, DOIs.
+
+Pois bem, o art. 5º, XII, da Constituição Federal prevê a inviolabilidade do sigilo da correspondência e das comunicações telegráficas, de dados, bem como das comunicações telefônicas, salvo por ordem judicial na forma e nas hipóteses estabelecidas em lei, para fins de investigação criminal ou instrução processual penal. As quebras de sigilo, em regra, têm natureza preparatória, exigindo-se indícios razoáveis de ilícito e quando imprescindível à investigação.
+
+O art. 1º, § 4º da LC nº 105/2001 fixa:
+
+§ 4o A quebra de sigilo poderá ser decretada, quando necessária para apuração de ocorrência de qualquer ilícito, em qualquer fase do inquérito ou do processo judicial, e especialmente nos seguintes crimes:
+I - de terrorismo;
+II - de tráfico ilícito de substâncias entorpecentes ou drogas afins;
+III - de contrabando ou tráfico de armas, munições ou material destinado a sua produção;
+IV - de extorsão mediante seqüestro;
+V - contra o sistema financeiro nacional;
+VI - contra a Administração Pública;
+VII - contra a ordem tributária e a previdência social;
+VIII - lavagem de dinheiro ou ocultação de bens, direitos e valores;
+IX - praticado por organização criminosa.
+
+No tocante aos crimes que autorizam a quebra de sigilo, não se exige maior consideração, haja vista que os delitos investigados pela "Operação Lava-Jato" encontram-se albergados pela cautelaridade da medida investigativa, notadamente contra a Administração Pública e de lavagem e ocultação de ativos.
+
+A decisão ora atacada este devidamente fundamentada e não traduz qualquer ilegalidade, seja no que diz respeito ao sigilo da pessoa jurídica, seja no tocante à extensão aos seus sócios.
+
+A petição inicial não demonstra o direito líquido e certo, consistente na inexistência dos requisitos autorizadores da medida investigativa. Ao contrário disso, as razões de impetração transparecem apenas a discordância da defesa com relação aos fundamentos invocados pela autoridade coatora. Como já ponderei em inúmeros processos correlacionados à "Operação Lava-Jato", é impossível analisar a quebra de sigilo bancário e fiscal de forma completamente dissociada do contexto do restante da investigação. Usando uma analogia, a Lava-Jato não pode ser vista por fotografias, mas na sua integralidade, como se fosse um filme.
+
+Recorrendo a um breve histórico dos fatos investigados na "Operação Lava-Jato", em dado momento, foi identificado o envolvimento de Alberto Youssef com possíveis atos de lavagem de dinheiro provenientes de obras contratadas pela Petrobras.
+
+Descortinou-se um milionário esquema de corrupção envolvendo grandes empreiteiras nacionais, como OAS, Odebrecht, UTC, Camargo Correa, Technt, Andrade Gutierrez, Mendes Júnior, Promon, Skanska, Queiroz Galvão, IESA, Engevix, SETAL, GDK e Galvão Engenharia.
+
+Tais empresas teriam formado um cartel, para, por ajuste prévio, sistematicamente frustrar as licitações da Petróleo Brasileiro S/A - Petrobras, referentes a grandes obras contratadas entre os anos de 2006 a 2014. O grupo chamou a atenção pela organização, contando inclusive com estatuto em linguagem cifrada, algo que foge da normalidade das organizações criminosas.
+
+As empresas do chamado "Clube" ajustavam os preços dos contratos e os dividiam, burlando qualquer possibilidade real de concorrência das obras da Estatal. Para tanto, contavam com a "cobertura" de empregados do escalão, como os Diretores Paulo Roberto Costa, Renato de Souza Duque e Pedro José Barusco Filho.
+
+A cadeia delitiva se completaria com a participação de operadores ou intermediários de propinas e responsáveis pela lavagem do dinheiro ilícito. Como elemento comum no curso do dinheiro subtraído, estariam empresas associadas supostamente para "clarear" os recursos na forma de contratos de serviços não realizados.
+
+Pois bem, é impossível analisar a presente quebra de sigilo bancário e fiscal de forma isolada. Como brevemente apontado, tem se revelado comum a utilização de contratos simulados de consultoria com a finalidade de dar aparência de legalidade aos valores proveniente da corrupção.
+
+Ainda que a defesa argumente que os depósitos bancários realizados pelas empreiteiras investigadas encontrem lastro em contratos de consultoria, não se pode desconsiderar que a utilização de contratos simulados de consultoria serve justamente ao propósito branquear os valores subtraídos dos cofres da Petrobras, em boa parcela, superfaturados e cartelizados.
+
+Fazendo uma breve, mas pertinente pausa na análise dos fatos, os crimes de corrupção e lavagem de dinheiro têm angariado a atenção de inúmeros países, resultando inclusive em estudos aprofundados a respeito do rastreamento de ativos ocultados.
+
+Exemplo disso é o trabalho realizado pelo Departamento de Justiça dos Estados Unidos da América, que elaborou um Guia de Orientação (disponível em http://www.justice.gov/criminal/fraud/fcpa/guidance/; Capítulo 2, p. 22) sobre evidências de atos característicos de fraudes e corrupções, em violação a Foreign Corrupt Practices Act (FCPA).
+
+Certamente a legislação e orientação se aplicam às autoridades americanas, porém, a ela estão sujeitas também empresas e autoridades estrangeiras que, de alguma forma - direta ou diretamente - ofendam à legislação americana, ainda que os atos tenham sido praticados no exterior.
+
+Mas, o que importa referir, para o momento, é a forma de mapeamento das condutas que sinalizam a existência de fraudes ou corrupção em contratos, as quais são qualificadas como "red flags", tendo em conta o caráter suspeito da transação. Sob tal ótica, destacam-se as seguintes condutas comuns que servem de alerta, quando relacionadas com as chamadas terceiras pessoas: (a) pagamento de comissões excessivas a agentes ou consultores; (b) concessão de descontos excessivos e desproporcionais em favor de terceiros; (c) celebração de "contratos de consultoria", que incluem serviços apenas vagamente descritos; (d) contratos de consultoria cujo objeto não se coaduna com a atividade profissional do contratado ou do contratante; (e) o terceiro está relacionado com ou intimamente associado com a autoridade; (f) o terceiro tornou-se parte da transação, a pedido expresso ou insistência do funcionário estrangeiro; (g) o terceiro é apenas uma empresa de fachada constituída em uma jurisdição offshore; e (h) o terceiro solicita o pagamento em favor de offshore.
+
+Ora, várias destas condutas, que sugerem o hasteamento das chamadas bandeiras vermelhas, têm sido verificadas no seio da "Operação Lava-Jato", inclusive no presente caso.
+
+Isto, por si só, está a justificar a medida excepcional adotada pelo juízo singular.
+
+A título ilustrativo, pontuo que a legislação alienígena referida permite a investigação ou persecução, não apenas sobre aqueles com conhecimento real de delito, mas também sobre aqueles que propositadamente evitam o conhecimento real.
+
+Os crimes contra a administração pública e a lavagem de dinheiro, ordinariamente, ocorrem às sombras e são cometidos por meio de sofisticadas engenharias para dar aparência de lícito àquilo que é ilícito. Dessa forma, o melhor modo para apurar se há ilicitude, ou não, nas condutas, é seguir o caminho percorrido pelo dinheiro que saiu dos cofres das construtoras para pagamento de serviços que, aparentemente, levantam suspeitas (as chamadas "red flags" referidas pela FCPA).
+
+"Follow the money", ou seguir o dinheiro é, portanto, o melhor mecanismo de investigação, só permitido no sistema jurídico brasileiro, por intermédio da quebra de sigilos fiscal e bancário, nos termos do preceito constitucional e da lei complementar antes referidos.
+
+Claro exemplos que devem levantar o alerta são os contratos firmados com as empresas GFD INVESTIMENTOS, MO CONSULTORIA, CONSTRUTORA RIGIDEZ, SANKI SIDER, dentre outras, empresas estas destinadas à lavar o dinheiro ilícito.
+
+Com esse quadro revelado pelo histórico das investigações, descabe dizer, como faz a defesa, que a quebra dos sigilos bancário e fiscal têm natureza investigatória prévia. No curso da "Operação Lava-Jato", fruto de quebras de sigilo das construtoras investigadas, viu-se que "dentre o período de julho de 2009 a dezembro de 2011, a empresa JD Assessoria recebeu, em média, R$ 25.000,00 mensais da Galvão Engenharia, sob a rubrica genérica de 'consultoria', totalizando cerca de R$ 725.000,00. Já da Construtora OAS, a empresa JD recebeu, em média, R$ 30.000,00 mensais, sob a rubrica de 'consultoria' e 'subempreiteiros', no período de janeiro de 2010 a dezembro de 2011, totalizando cerca de R$ 720.000,00. Quanto à empresa UTC Engenharia, consta o pagamento de R$ 1.377.000,00 no ano de 2012 e de R$ 939.000,00, no ano de 2013, tendo como beneficiária a empresa JD Assessoria, também sob a rubrica genérica de" consultoria, assessoria e auditoria ".
+
+Ou seja, a JD ASSESSORIA E CONSULTORIA LTDA constou em relatórios de quebras anteriores dos demais investigados como recebedora de vultosa soma no período de 2009 a 2013, de maneira que a tese de caráter investigatório inicial, não se sustenta.
+
+Por óbvio que não se quer aqui inferir que houve a efetiva participação da empresa JD ASSESSORIA E CONSULTORIA LTDA ou de seus sócios na cadeia delitiva identificada nas investigações. Mas, de igual modo, é inviável se concluir que isso não ocorreu.
+
+A propósito, travar tal discussão em sede de mandado de segurança, no qual não se admite instrução probatória ou mesmo amplo contraditório é demasiado, o que faz duvidosa a propriedade da ação mandamental para tal intento.
+
+Nada mais plausível, nessa perspectiva, do que ampliar a quebra de sigilo às pessoas dos sócios. Vale dizer que, de acordo com numerosos julgados do Supremo Tribunal Federal, reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação per relationem, além de compatível com o que dispõe o art. 93, IX, da Constituição da Republica.
+
+A remissão feita pelo magistrado - expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator)- constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir"(AI n. 825.520-AgR-Ed, Rel. Min. Celso de Mello, Segunda Turma, DJe 12/09/2011; RE n. 614.967 AgR/AM, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/03/2013).
+
+No mesmo caminho, o Superior Tribunal de Justiça considerou que "inexiste ilegalidade no decreto de quebra de sigilo telefônico com fundamentação per relationem, como quando o magistrado faz alusão aos termos do requerimento da polícia e do parecer do Ministério Público para embasar o deferimento". (HC 201400476661, NÉFI CORDEIRO, STJ - SEXTA TURMA, DJE 25/09/2014).
+
+No que pertine à necessidade, as decisões impugnadas registram não existir outra forma de colher a prova. Registre-se que a fundamentação sucinta não se confunde com ausência de fundamentação, afastando qualquer mácula ao art. 93, inc. IX, da Constituição Federal (STF, HC nº 111.127, Rel. Min. Luiz Fux, 1ª T., un., j. 09.4.2013).
+
+Como decidido pelo Superior Tribunal de Justiça, "não há falar em deficiência de fundamentação do ato judicial que determinou a quebra de sigilo fiscal se o julgador apreciou os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a adotar tal medida" (AROMS 200801129098, VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, STJ - TERCEIRA TURMA, DJE 25/08/2010).
+
+Não há dúvida que as decisões em pauta são exaustivas e a conclusão acerca da inexistência de outro meio para obtenção da prova leva em conta todo o contexto da investigação e os meios já utilizados de obtenção da prova. "Por outro lado, em processos por crimes financeiros e de lavagem, o rastreamento patrimonial financeiro da origem e destino dos valores é imprescindível. Havendo suspeita nas transações efetuadas pelos investigados, é evidentemente necessária a quebra do sigilo".
+
+De resto, é fundamental que se perceba que:
+
+(a) "O sigilo bancário é garantido pela Constituição Federal l como direito fundamental para guardar a intimidade das pessoas desde que não sirva para encobrir ilícitos" (RESP 200501801179, LUIZ FUX, STJ - PRIMEIRA TURMA, DJ DATA: 02/04/2007);
+
+(b) como tem entendido o Superior Tribunal de Justiça, "o direito ao sigilo das informações bancárias e fiscais, eminentemente de caráter individual, não é absoluto, podendo ser mitigado em face do interesse público, quando restarem evidenciadas circunstâncias que justifiquem a sua restrição" (HC 274.150/BA, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 24/04/2014, DJe 08/05/2014);
+
+(c) no caso dos autos, não se cuida de medida destinada a proporcionar verdadeira e condenável devassa fiscal da empresa e de seus sócios, porque fundada em fortes indicativos do cometimento de crimes de corrupção, de licitação contra a Petrobras e lavagem de dinheiro por empresas prestadoras de serviços de consultoria;
+
+(d) a necessidade da investigação da pessoa jurídica e de seus sócios tem suporte em quebras de sigilo anteriores, deferidas contra construtoras investigadas na "Operação Lava-Jato" e que figuram como responsáveis por pagamentos de consultoria à impetrante JD ASSESSORIA E CONSULTORIA LTDA;
+
+(e) inviável em mandado de segurança, porquanto desprovido de amplo contraditório e sujeito à prova pré-constituída, a aferição da legalidade e veracidade dos contratos que amparariam o direito líquido e certo dos impetrantes;
+
+(f) em crimes de lavagem de dinheiro, a quebra dos sigilos bancário e fiscal é fundamental para demonstrar a cadeia delitiva e o caminho marcado pelo dinheiro até o clareamento.
+
+Dessa forma, mesmo que não se possa atestar a legalidade ou ilegalidade das relações comerciais travadas entre os impetrantes e as empreiteiras investigadas na "Operação Lava-Jato" - ou seja este o momento e meio adequado -, o contexto de crimes praticados contra a Administração Pública e de lavagem ou ocultação de ativos, bem assim o modus operandi, autoriza a via excepcional da quebra de sigilo.
+
+Complementa-se o raciocínio com as informações prestadas pelo juízo de primeiro grau, de seguinte teor (evento 27, Ofício nº 700000538499):
+
+Relativamente ao pedido de informações no mandado de segurança acima, Impetrantes JD Assessoria e Consultoria Ltda., J. D. D. O. E. S. e L. E. D. O. E. S..
+Remeto aos fundamentos das decisões já atacadas, quebras da lavra da ilustre Juíza Federal Substituta, Gabriela Hardt.
+Em síntese, na assim denominada Operação Lavajato, colhidas provas, em cognição sumária, do pagamento sistemático de propinas a dirigentes da Petróleo Brasileiros S/A - Petrobrás por grandes empreiteiras brasileiras.
+Entre os dirigentes, Paulo Roberto Costa, diretor que teria sido indicado e era mantido no cargo pelo Partido Progressivas, e Renato de Souza Duque, diretor que teria sido indicado e era mantido no cargo pelo Partido dos Trabalhadores.
+Entre as formas de pagamento de propina, a simulação de contratos de consultoria.
+Nas quebras de sigilo fiscal e bancário das empreiteiras, o que foi judicialmente autorizado, foram identificados vários pagamentos de contratos de consultoria para a JD Assessoria e Consultoria Ltda., empresa de titularidade de J. D. D. O. E. S..
+Diante da notória influência de J. D. D. O. E. S. no Partido dos Trabalhadores e da prévia verificação de que as empreiteiras teriam se valido de consultorias fictícias para pagamento de propinas, razoáveis as razões para a decretação da quebra de sigilo bancário e fiscal diante dos lançamentos de pagamentos identificados.
+Imprescindível para a investigação a quebra de sigilo fiscal e bancário, não havendo outro meio menos gravoso para esclarecer os fatos. Em investigações por corrupção e lavagem de dinheiro, imprescindível rastreamento do fluxo financeiro e patrimonial.
+Destaque-se que a empresa JD, intimada, apresentou cópia de parte dos contratos e prestou esclarecimentos a respeito deles, que serão levados em consideração oportunamente.
+Alguns contratos apresentam algumas inconsistências.
+Ilustrativamente, o contrato da JD com a empreiteira Engevix está datado de 02/11/2010, com prazo de seis meses de execução (evento 40, arquivo notafiscal5). Entretanto, no mesmo contrato, a previsão de início é de 02/11/2009 e do término de 01/05/2011. A previsão de início não é consistente com a data de assinatura do contrato e o período de execução nele previsto, de seis meses, não é consistente com os termos previstos para o início e o final. Por outro lado, há prova de pagamentos da Engevix para a JD já em 2008, muito embora o contrato apresentado pela JD para justificar os pagamentos seja de 2010.
+Enfim, há várias inconsistências que necessitam ser esclarecidas com o aprofundamento das investigações, sendo imprescindíveis as quebras de sigilo fiscal e bancário.
+No momento, as investigações prosseguem, sem que possa afirmar alguma conclusão . DESTAQUEI
+
+Para não passar in albis, vale referir que se mostra despropositada a alegação de que a investigação tomou como norte o direto penal do autor, e que o impetrante J. D. D. O. E. S., segundo a inicial, "é processado porque, pura e simplesmente, é José Dirceu, o ex-Ministro Chefe da Casa Civil do Governo Lula, a mais importante personalidade condenada no chamado Mensalão, em suma, o bode expiatório natural dos males do Brasil".
+
+Ora, o curso da denominada "Operação Lava-Jato" demonstra que a atuação judicial não toma em conta pessoas, mas sim fatos. Ao contrário do que pretende fazer crer a defesa, a empresa JD ASSESSORIA E CONSULTORIA e seus sócios não são os únicos identificados no curso da investigação.
+
+São inúmeros os inquéritos policiais, centenas os pedidos de quebra e de medidas constritivas, de modo que não há qualquer marca de tratamento mais severo, em face de um dos impetrantes ser conhecido e, até pouco tempo, aparecer com destaque no mundo político nacional. A investigação, registre-se, não é política.
+
+A tese de que o impetrante J. D. D. O. E. S. está servindo de instrumento de expiação dos males do país, não se sustenta quando confrontada com a dinâmica da própria "Operação Lava-Jato", que, após um ano, produziu mais de uma centena de inquéritos policiais e medidas investigatórias, dezenas de ações penais e investigados, dentre eles inclusive parlamentares e governadores com foro privilegiado, cujos processos correm perante o Supremo Tribunal Federal e o Superior Tribunal de Justiça.
+
+Desse modo, não se verifica ilegalidade latente a amparar o direito invocado, não havendo, neste passo, motivos para declarar a nulidade das decisões de primeiro grau que decretaram a quebra do sigilo bancário e fiscal dos impetrantes, tampouco expurgar as informações eventualmente colhidas do corpo da investigação.
+
+Ante o exposto, voto por denegar a segurança, na forma da fundamentação.
+
+É o voto.
+
+Desembargador Federal João Pedro Gebran Neto
+Relator
+EXTRATO DE ATA DA SESSÃO DE 06/05/2015
+MANDADO DE SEGURANÇA (TURMA) Nº 5010007-89.2015.404.0000/PR
+ORIGEM: PR 50856235620144047000
+RELATOR
+:
+Des. Federal JOÃO PEDRO GEBRAN NETO
+PRESIDENTE
+:
+Desembargador Federal Victor Luiz dos Santos Laus
+PROCURADOR
+:
+Dra. Cristianna Dutra Brunelli Nacul
+SUSTENTAÇÃO ORAL
+:
+Dr. Juarez Cirino dos Santos, pelos impetrantes Luis Eduardo de Oliveira e Silva, J. D. D. O. E. S. e JD Assessoria e Consultoria Ltda
+IMPETRANTE
+:
+L. E. D. O. E. S.
+:
+JD ASSESSORIA E CONSULTORIA LTDA
+:
+J. D. D. O. E. S.
+ADVOGADO
+:
+JUAREZ CIRINO DOS SANTOS
+:
+JUNE CIRINO DOS SANTOS
+:
+JAIR CIRINO DOS SANTOS
+IMPETRADO
+:
+Juízo Federal da 13ª VF de Curitiba
+INTERESSADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+:
+POLÍCIA FEDERAL/PR
+Certifico que este processo foi incluído na Pauta do dia 06/05/2015, na seqüência 15, disponibilizada no DE de 23/04/2015, da qual foi intimado (a) o MINISTÉRIO PÚBLICO FEDERAL e a DEFENSORIA PÚBLICA.
+Certifico que o (a) 8ª TURMA, ao apreciar os autos do processo em epígrafe, em sessão realizada nesta data, proferiu a seguinte decisão:
+A TURMA, POR UNANIMIDADE, DECIDIU DENEGAR A SEGURANÇA, NOS TERMOS DO VOTO DO RELATOR.
+RELATOR ACÓRDÃO
+:
+Des. Federal JOÃO PEDRO GEBRAN NETO
+VOTANTE (S)
+:
+Des. Federal JOÃO PEDRO GEBRAN NETO
+:
+Des. Federal LEANDRO PAULSEN
+:
+Des. Federal VICTOR LUIZ DOS SANTOS LAUS
+Lisélia Perrot Czarnobay
+Diretora de Secretaria

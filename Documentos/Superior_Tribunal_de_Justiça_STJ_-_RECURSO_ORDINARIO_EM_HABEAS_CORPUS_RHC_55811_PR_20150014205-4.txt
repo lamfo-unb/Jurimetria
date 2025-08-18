@@ -1,0 +1,167 @@
+URL: https://www.jusbrasil.com.br/jurisprudencia/stj/3423642580
+
+Ementa:
+CONSTITUCIONAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO "LAVA JATO". CRITÉRIOS PARA DEFINIÇÃO DE COMPETÊNCIA NA PRIMEIRA INSTÂNCIA. PREVENÇÃO DA DÉCIMA QUARTA VARA FEDERAL DA SUBSEÇÃO JUDICIÁRIA DE CURITIBA/PR. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO SUBMETIDA A APRECIAÇÃO NO JUÍZO DE ORIGEM. RECURSO NÃO CONHECIDO.01.
+
+---
+
+Fatos:
+O caso envolve um recurso em habeas corpus no contexto da Operação Lava-Jato, onde o recorrente, investigado por crimes de lavagem de dinheiro e associação criminosa, questiona a competência da 14a Vara Federal de Curitiba/PR. A defesa argumenta que houve supressão de instância e que a competência por prevenção deveria ser reconhecida, alegando conexão entre os fatos investigados e outros processos. O Ministério Público Federal, por sua vez, se manifestou pelo desprovimento do recurso, destacando que a questão da competência não foi devidamente levada ao juízo de primeira instância, o que inviabiliza o uso do habeas corpus para tal fim.
+
+---
+
+Inteiro Teor:
+RECURSO EM HABEAS CORPUS Nº 55.811 - PR (2015/0014205-4)
+RELATOR : MINISTRO NEWTON TRISOTTO (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+RECORRENTE : CARLOS HABIB CHATER
+ADVOGADO : ROBERTO BRZEZINSKI NETO E OUTRO (S)
+RECORRIDO : MINISTÉRIO PÚBLICO FEDERAL
+EMENTA
+CONSTITUCIONAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS . OPERAÇÃO "LAVA JATO". CRITÉRIOS PARA DEFINIÇÃO DE COMPETÊNCIA NA PRIMEIRA INSTÂNCIA. PREVENÇÃO DA DÉCIMA QUARTA VARA FEDERAL DA SUBSEÇÃO JUDICIÁRIA DE CURITIBA/PR. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO SUBMETIDA A APRECIAÇÃO NO JUÍZO DE ORIGEM. RECURSO NÃO CONHECIDO.
+01. Conforme precedentes desta Corte (HC 51.101/GO, Rel. Ministro Gilson Dipp, Quinta Turma, julgado em 02/05/2006; HC 164.717/PR, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 17/05/2012; AgRg no AREsp 218.585/AL, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/08/2013) e do Supremo Tribunal Federal, "a competência ratione loci é relativa e prorrogável. [...] Não tendo a defesa alegado o vício no momento oportuno, nem oposto exceção de incompetência, ocorre a preclusão da matéria, fixando-se a competência no juízo perante em que tramita a ação penal" (RHC 100.969/DF, Rel. Ministro Ricardo Lewandowski, Primeira Turma, julgado em 27/04/2010; RHC 119.965, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/04/2014).
+02. Recurso não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso. Os Srs. Ministros Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Felix Fischer, Jorge Mussi e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Brasília (DF), 17 de março de 2015 (Data do Julgamento)
+MINISTRO NEWTON TRISOTTO
+(DESEMBARGADOR CONVOCADO DO TJ/SC)
+Relator
+RECURSO EM HABEAS CORPUS Nº 55.811 - PR (2015/0014205-4)
+RELATOR : MINISTRO NEWTON TRISOTTO (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+RECORRENTE : CARLOS HABIB CHATER
+ADVOGADO : ROBERTO BRZEZINSKI NETO E OUTRO (S)
+RECORRIDO : MINISTÉRIO PÚBLICO FEDERAL
+RELATÓRIO
+O EXMO. SR. MINISTRO NEWTON TRISOTTO (DESEMBARGADOR CONVOCADO DO TJ/SC) (Relator):
+CARLOS HABIB CHATER , investigado no âmbito da denominada "Operação Lava-Jato", em 10.07.2014 foi denunciado por infração ao art. 1º, caput e §§ 1º, 2º e 4º, da Lei n. 9.613/1998, e aos arts. 288, caput , 299 e 304, todos do Código Penal (Ação Penal n. 5047229-77.2014.404.7000/PR - fls. 31/52).
+Pelas razões sintetizadas na ementa do acórdão, a seguir parcialmente reproduzida, a Oitava Turma do Tribunal Regional Federal da Quarta Região denegou o habeas corpus impetrado, em 08.10.2014, por seus defensores:
+"1. Segundo pacificado pela Súmula 706 do Supremo Tribunal Federal, 'é relativa a nulidade decorrente da inobservância penal por prevenção'.
+2. Embora seja o habeas-corpus um instrumento de dignidade constitucional, destinado à proteção do direito de liberdade, devendo, portanto, ser concebido com maior amplitude, não pode, todavia, ser utilizado como panacéia para todos os males, não podendo servir de substituto para os casos de incompetência relativa, susceptível de ser atingida pela preclusão (RHC 200001427490, Vicente Leal, STJ - Sexta Turma, DJ 18/03/2002 Pg:00301).
+3. Nada obstante a defesa ter proposto exceção de litispendência e exceção de incompetência criminal, a matéria específica tratada na impetração em nenhum momento foi levada à apreciação do Judiciário, seja em sede de resposta a acusação, seja em qualquer outro momento processual que a defesa dispunha para manifestação nos autos.
+4. Tendo a exceção de litispendência proposta em primeiro grau, já julgada e atingida pela coisa julgada, registrado que nenhum dos elementos é comum - partes, objeto e pedido - e que não se vislumbra litispendência, por igual razão não se há de falar em existência de prevenção a processo anterior que tramitou junto a outro juízo.
+5. O Supremo Tribunal Federal, nos autos da Reclamação nº 17.623 e Ação Penal nº 871 reafirmou a competência para julgamento do juízo de primeiro grau, ora autoridade coatora, assentando que inexiste vinculação entre os fatos hoje investigados no bojo da operação com os fatos relacionados a ex-Parlamentar e que redundaram na Ação Penal n. 470.
+6. Fragiliza-se a tese de prevenção, quando o próprio Supremo Tribunal
+Federal recebeu inúmeros incidentes processuais - habeas corpus e reclamação que foram distribuídos ao Ministro Teori Zavascki e não ao Ministro Roberto Barroso, que sucedeu o Ministro Joaquim Barbosa na relatoria da Ação Penal n. 470" (fl. 216).
+Inconformado, o réu interpôs o recurso em exame, sustentando, em síntese, que: a) "ao contrário do que afirmou o e. TRF4, inexiste supressão de instância [na análise da prevenção da 14a Vara Federal de Curitiba/PR] . Isso porque, a ilegalidade foi praticada pela autoridade apontada como coatora (Juízo da 13a Vara Federal de Curitiba/PR), sendo desnecessário submeter a ela pedido para que reconhecesse a própria ilegalidade"; b) "o teor da Súmula nº 706 do Supremo Tribunal Federal também não impede a apreciação da matéria. Isso porque, sendo relativa ou absoluta a nulidade decorrente da inobservância da competência por prevenção, é direito do acusado ser processado pelo Juízo competente"; c) "há evidente relação entre os fatos das ações penais nº 5047229-77.2014.404.7000 e nº 5032531-37.2012.404.7000, posto que, vale repetir, em ambas imputa-se lavagem de dinheiro de valores recebidos por José Janene no caso 'mensalão'", de maneira que "a prevenção do Juízo da 14a Vara Federal é evidente" (fls. 232/245).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 340/346).
+É o relatório.
+RECURSO EM HABEAS CORPUS Nº 55.811 - PR (2015/0014205-4)
+RELATOR : MINISTRO NEWTON TRISOTTO (DESEMBARGADOR
+CONVOCADO DO TJ/SC)
+RECORRENTE : CARLOS HABIB CHATER
+ADVOGADO : ROBERTO BRZEZINSKI NETO E OUTRO (S)
+RECORRIDO : MINISTÉRIO PÚBLICO FEDERAL
+VOTO
+O EXMO. SR. MINISTRO NEWTON TRISOTTO (DESEMBARGADOR CONVOCADO DO TJ/SC) (Relator):
+01. No voto que integra o acórdão impugnado, inscreveu o Relator, Desembargador Federal João Pedro Gebran Neto:
+"1. Da decisão que indeferiu o pedido liminar
+Ao proferir a decisão inaugural, o Juiz Federal Danilo Pereira Junior, que me substituía no período de férias regulamentares, indeferiu o pedido de liminar nos seguintes termos:
+A incompetência do juízo é arguida por exceção, somente sujeita a recurso quando houver acolhimento do pedido e declinação para o juízo competente (art. 581, II e III, do Código de Processo Penal).
+Porém, a fim de evitar que o réu seja processado por juízo flagrantemente incompetente, admite-se o manejo do habeas corpus exclusivamente nas hipóteses em que haja prova pré-constituída e o que o exame da matéria não se revista de complexidade tal, incompatível com a estreita via do remédio constitucional. Nesse sentido:
+[...]
+Porém, compulsando os autos da Ação Penal de origem e das demais correlatas, verifica-se que a matéria não foi ventilada no juízo de primeiro grau. Não há registro de que esta específica questão tenha sido debatida junto ao magistrado de origem, o que, por este viés, faz questionável a utilização do habeas corpus como meio ordinário de impugnação .
+O habeas corpus não se presta para reexame de toda e qualquer matéria tratada no inquérito policial ou na ação penal, notadamente quando presente na Lei Processual Penal meio adequado. Estabelece o art. 95 do Código de Processo Penal:
+Art. 95. Poderão ser opostas as exceções de:
+(...)
+II - incompetência de juízo;
+Ainda, o Código de Processo Penal prevê em seu art. 108 que 'a exceção de incompetência do juízo poderá ser oposta, verbalmente ou por escrito, no prazo de defesa'.
+Pois bem, como a própria defesa revela na inicial, o paciente está sendo processado nas Ações Penais nºs 5026663-10.2014.404.7000,
+5047229-77.2014.404.7000 e 5025687-03.2014.404.7000. Na Ação Penal nº 5047229-77.2014.404.7000 foi apresentada resposta à acusação em 28/07/2014 (evento 98). Dentre as matérias levantadas naquela peça, nenhuma delas diz respeito à competência por prevenção do Juízo da 14a Vara Federal de Curitiba/PR.
+Relacionada à mesma ação penal, foi proposta pela defesa do paciente a Exceção de Incompetência Criminal nº 5052014-82.2014.404.7000, na qual pretendia a remessa do feito a uma das Varas da Seção Judiciária do Distrito Federal, sem menção à competência por prevenção da 14a Vara Federal de Curitiba/PR .
+O incidente foi rejeitado, com trânsito e julgado e baixa registrada em 22/09/2014 (evento 20).
+Segundo pacificado pela Súmula 706 do Supremo Tribunal Federal, 'é relativa a nulidade decorrente da inobservância penal por prevenção'. Vale dizer, 'embora seja o habeas-corpus um instrumento de dignidade constitucional, destinado à proteção do direito de liberdade, devendo, portanto, ser concebido com maior amplitude, não pode, todavia, ser utilizado como panacéia para todos os males, não podendo servir de substituto para os casos de incompetência relativa, susceptível de ser atingida pela preclusão' (RHC 200001427490, Vicente Leal, STJ - Sexta Turma, DJ:18/03/2002 Pg:00301).
+Sobre o tema, o julgado do Supremo Tribunal Federal que segue:
+[...]
+É de se notar da impetração que a defesa indica como atacado o ato lançado no evento 5 dos autos de origem, consistente na decisão de recebimento de denúncia. Ora, se há uma decisão de primeiro grau a respeito do tema, certamente não seria a de recebimento da denúncia.
+E tal incompatibilidade entre o conteúdo do ato impugnado e as razões da impetração explica-se em face da ausência de impugnação pela via adequada da exceção de incompetência no momento oportuno.
+Ante o exposto, sem prejuízo de que outro entendimento seja adotado após prestadas as informações pela autoridade coatora, indefiro o pedido liminar.
+Não vejo motivos para registrar a posição contida no provimento judicial inicial. Com efeito, merecem menção dois aspectos fundamentais: (a) a questão em nenhum momento foi abordada junto ao juízo de primeiro grau, de modo que o enfrentamento do tema em sede de habeas corpus representaria supressão de instância; (b) segundo assentado pela Súmula 706 do Supremo Tribunal Federal, 'é relativa a nulidade decorrente da inobservância penal por prevenção', de modo que 'embora seja o habeas-corpus um instrumento de dignidade constitucional, destinado à proteção do direito de liberdade, devendo, portanto, ser concebido com maior amplitude, não pode, todavia, ser utilizado como panacéia para todos os males, não podendo servir de substituto para os casos de incompetência relativa, susceptível de ser atingida pela preclusão' (RHC 200001427490, Vicente Leal, STJ - Sexta Turma, DJ :18/03/2002 P.:00301).
+2. Outros elementos de convicção
+A Ação Penal nº 5047229-77.2014.404.7000 tramita desde 11/07/2014. A
+competência do juízo de primeiro grau (evento 95). Apenas sob outra ótica, alguma insurgência foi oposta quanto à competência, mas apenas em outro processo, quando foram autuadas como EXCEÇÃO DE LITISPENDÊNCIA Nº 5052015-67.2014.404.7000 e EXCEÇÃO DE INCOMPETÊNCIA CRIMINAL Nº 5052014-82.2014.404.7000.
+Além disso, o presente habeas corpus , por sua vez, somente foi impetrado em 08/10/2014, quase três meses após o oferecimento da denúncia e depois de inúmeras outras manifestações nos autos .
+Ademais, como já registrado na decisão inicial e ratificado pelo Ministério Público Federal, a tese de vinculação dos autos relacionados à Operação Lava-Jato à Ação Penal nº 5032531-37.2012.404.7000 exigiria uma análise mais ampla e complexa de todos os fatos, o que, regra geral, não se mostra adequado na estreita via do remédio constitucional.
+De qualquer modo, a decisão proferida na EXCEÇÃO DE LITISPENDÊNCIA Nº 5052015-67.2014.404.7000, já atingida pelo trânsito em julgado, esclarece:
+Decisão comum nas exceções de litispendência 5052015-67.2014.404.7000 e 5052022-59.2014.404.7000
+Trata-se de exceções de litispendência ajuizadas pelas Defesas de Carlos Habib Chater e Ediel Viana da Silva e vinculadas à ação penal n.º 5047229-77.2014.404.7000.
+Em síntese, alega-se que haveria litispendência com a ação penal 5032531-37.2012.404.7000.
+Ouvido, o MPF manifestou-se contrariamente à exceção.
+Passo a decidir.
+A ação penal 5047229-77.2014.404.7000, em trâmite perante este Juízo, tem por objeto principal crime de lavagem de dinheiro consistente na realização de investimentos subreptícios em empresa em Londrina, a Dunel Indústria, com recursos supostamente criminosos do ex-deputado federal José Janene. Transcrevo da decisão de recebimento da denúncia:
+'Em síntese, segundo a denúncia, os acusados teriam lavado recursos criminosos de titularidade do ex Deputado Federal José Janene para investimentos em empreendimento industrial em Londrina/PR, constituindo a empresa Dunel Indústria.
+Relata a denúncia que o ex-Deputado José Janene foi denunciado na Ação Penal nº 470 perante o Supremo Tribunal Federal, restando provado naqueles autos o recebimento por ele e por outros deputados do Partido Progressista, por quinze vezes, de propina, no montante de cerca de R$ 4.100.000,00, no esquema fraudulento conduzido por Marcos Valério Fernandes de Souza.
+Referido Deputado teria escapado da condenação por ter falecido antes do julgamento.
+Cerca de R$ 1.165.600,08, de titularidade de José Janene, teriam, por sua vez, sido investidos subrepticiamente em empreendimento industrial em Londrina, especificamente na empresa Dunel Indústria, que seria de Hermes Freitas Magnus e Maria Teodora Silva.
+Destes, R$ 537.252,00 seriam originados de transferências bancárias de contas em nome de pessoas interpostas, mas controladas por Carlos Habib Chater, segundo a denúncia, operador do mercado de câmbio negro em Brasília.
+Documento: 1391777 - Inteiro Teor do Acórdão - Site certificado - DJe: 23/03/2015 Página 6 de 4
+Destes, R$ 618.434.08 teria origem na empresa CSA Project Finance Consultoria e Intermediação de Negócios Empresariais Ltda., empresa esta controlada por Alberto Youssef.
+Cita a denúncia depoimentos, provas materiais, rastreamento bancário entre outras provas.
+Ainda segundo a denúncia, durante a investigação, o acusado Ediel Viana Filho teria apresentado, em 23/07/2012, à Polícia Federal, agindo por ordem de Carlos Habib Chater e Dinorah Abrão, um contrato de mútuo idologicamente falso (fl. 1.862 do inquérito), a fim de justificar falsamente depósito efetuado, no valor de R$ 130.013,50, pela empresa Angel Serviços Terceiriados Ltda. em favor da empresa CSA - Project Finance para o empreendimento em Londrina. O contrato de mútuo está assinado pelos acusados Ediel Viana da Silva e Rubens de Andrade Filho. Assina ainda o contrato como testemunha Carlos Alberto Pereira da Costa.
+O fato configuraria, além do crime de lavagem, os crimes de falsificação ideológica e o de uso de documento falso, arts. 299 e 304 do CP.
+Também segundo a denúncia, os acusados, além de terem montado empreendimento industrial em Londrina com recursos criminosos, buscaram apropriar-se indevidamente do patrimônio imobilizado, material e intelectual, da empresa Dunel Indústria em detrimento de seus sócios Hermes Freitas Magnus e Maria Teodora Silva.
+Equipamentos industriais foram transferidas para galpão da empresa JN Rent a Car, de Assad Jannani, irmão de José Janene. Posteriormente, Hermes Feitas Magnus e Maria Teodora Silva teriam sido afastados da gerência da empresa.
+Depois, os acusados Alberto Youssef, Danielle Kemmer Janene e Carlos Alberto Murari teraim simulado uma ação cautelar preparatória de Ação Trabalhista em face da empresa Dunel Indústria para obter o arresto dos bens da empresa e do restante dos equipamentos industriais.
+Apesar do arresto dos bens, a ação não veio a ser proposta, com o que a medida perdeu a eficácia.
+A respeito da simulação da ação trabalhista, foram colhidas declarações dos empregados no sentido de que teriam sido coagidos para 'assinar um termo que, segundo ele, seria utilizado para liberação dos pagamentos' (declaração de fl. 565 do inquérito do empregado Alan Siedmann; carta manuscrita do empregado Luiz Alfredo Villela, fl. 566 do inquérito).
+Além disso, imputa ainda a denúncia aos acusados o crime de associação criminosa, do art. 288 do CP.
+Esta, em síntese, a denúncia.'
+A ação penal 5032531-37.2012.404.7000, juntada por cópia pelo MPF, tem como único ponto comum o fato de também envolver lavagem recursos supostamente criminosos do ex-Deputado José Janene.
+Lendo aquela denúncia, verifica-se de plano:
+- que Carlos Habib Chater e Ediel Viana da Silva, ora excipientes, não são acusados ou sequer mencionados na ação penal 5032531-37.2012.404.7000;
+- que, na descrição dos crimes na ação penal 5032531-37.2012.404.7000, não se faz qualquer referência aos fatos que constituem objeto da ação penal 5047229-77.2014.404.7000, v.g. aos investimentos realizados na Dunel Indústria ou às contas supostamente controladas por Carlos Habib Chater (v.g.: Posto da Torre ou Angel Serviços) das quais teriam partido as transações subreptícias, ou à empresa CSA Project, ou às próprias transações
+Documento: 1391777 - Inteiro Teor do Acórdão - Site certificado - DJe: 23/03/2015 Página 7 de 4
+subreptícias especificadas na denúncia.
+- que, na ação penal 5047229-77.2014.404.7000, a lavagem teria ocorrido em 2008, enquanto que na ação penal 5032531-37.2012.404.7000 a lavagem teria ocorrido entre 2003 e 2006 (fl. 13 da denúncia). DESTAQUEI
+Litispendência exige identidade de partes, objeto e pedido.
+Se nenhum dos elementos é comum, não se vislumbra com facilidade como se pode alegar litispendência.
+Ante o exposto, rejeito a presente exceção de litispendência.
+Sem custas ou honorários.
+Em conclusão, não se há de falar em conexão e continência capaz de provocar a prevenção e a reunião dos feitos. Não há identidade de partes, objeto e pedido. Tampouco se está a tratar de alguma das hipóteses indicadas nos arts. 76 e 778 do Código de Processo Penal.
+Verdade é que os fatos são completamente diversos dos que os foram objeto da Ação Penal nº 5032531-37.2012.404.7000.
+A propósito, a competência do juízo de primeiro grau é um dos temas mais debatidos em segundo grau no tocante aos processos relacionados à Operação Lava-Jato. Inúmeros são os pedidos de remessa de processos a outros juízos, pretensão esta que se mostra desarrazoada diante de todas as circunstâncias, sobretudo em face das decisões proferidas pelo Supremo Tribunal Federal, nas quais ficou reafirmada a competência do juízo de primeiro grau, inclusive com a ratificação dos atos já praticados (dentre os precedentes, a Reclamação nº 17.623 e a Ação Penal nº 871).
+Nem mesmo existe a pretendida vinculação ao Inquérito Policial nº 714, que investigava José Mohamad Janene. Carece de razão a alegação de que as investigações tinham por foco investigar o ex-parlamentar desde o nascedouro do inquérito policial. O nome de Janene só veio à tona no ano de 2009, quando já não exercia mais o mandato parlamentar. Sobre o tema, aliás, o próprio Supremo Tribunal Federal, nos autos do Inquérito nº 2.245 que impulsionou a Ação Penal nº 470 (caso mensalão) chancelou a regularidade da tramitação do feito em primeiro grau.
+Para não passar in albis , não auxilia a defesa a tese de que o próprio Superior Tribunal de Justiça reconheceu a prevenção em alguns processos que lá aportaram. Em primeiro lugar, a discussão ainda é incipiente naquela Corte. Muitos - dezenas - são os recursos e habeas corpus impetrados diretamente perante o Superior Tribunal de Justiça sem que tenha havido qualquer registro de vinculação aos processos primitivos e nenhuma decisão de caráter definitivo há em tal sentido.
+Ademais, se de fato houvesse vinculação a fatos pretéritos, nada justificaria, por exemplo, a distribuição de processos que investigam autoridades com prerrogativa de foro de forma livre no Supremo Tribunal Federal, sendo imperioso lembrar que, com a aposentadoria do Ministro Joaquim Barbosa, a Ação Penal nº 470 passou à relatoria do Ministro Roberto Barroso, enquanto que os novos processos, originados da denominada Operação Lava-Jato, foram distribuídos ao Ministro Teori Zavascki" (fls. 210/215 - os destaques não constam do original).
+Concordo com Sua Excelência. Aos fundamentos deduzidos nada seria
+necessário acrescentar. Apenas adito:
+a) de acordo com o Supremo Tribunal Federal, se reveste "de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação per relationem , que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da Republica. A remissão feita pelo magistrado - referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator)- constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir"(AI n. 825.520-AgR-Ed, Rel. Min. Celso de Mello, Segunda Turma, DJe 12/09/2011; RE n. 614.967 AgR/AM, Rel. Min. Luiz Fux, Primeira Turma, DJe 19/03/2013; ARE n. 727.030 AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 03/12/2013).
+b) conforme precedentes desta Corte (HC 51.101/GO, Rel. Ministro Gilson Dipp, Quinta Turma, julgado em 02/05/2006; HC 164.717/PR, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 17/05/2012; AgRg no AREsp 218.585/AL, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/08/2013) e do Supremo Tribunal Federal, "a competência ratione loci é relativa e prorrogável. [...] Não tendo a defesa alegado o vício no momento oportuno, nem oposto exceção de incompetência, ocorre a preclusão da matéria, fixando-se a competência no juízo perante em que tramita a ação penal" (RHC 100.969/DF, Rel. Ministro Ricardo Lewandowski, Primeira Turma, julgado em 27/04/2010; RHC 119.965, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/04/2014).
+02. À vista do exposto, não conheço do recurso.
+É o voto.
+CERTIDÃO DE JULGAMENTO
+QUINTA TURMA
+Número Registro: 2015/0014205-4 PROCESSO ELETRÔNICO RHC 55.811 / PR
+MATÉRIA CRIMINAL
+Números Origem: 50254138720144040000 50472297720144047000 PR-200670000186628
+PR-200870000115461 PR-200970000032420 PR-50014388520144047000
+PR-50014431020144047000 PR-50014466220144047000 PR-50014613120144047000 PR-50019697920114047000 PR-50051715920144047000 PR-50055361320144047001 PR-50077359320144047005 PR-50079923620144047000 PR-50099168220144047000 PR-50101099720144047000 PR-50110773020144047000 PR-50112323320144047000 PR-50119364620144047000 PR-50119416820144047000 PR-50119442320144047000 PR-50131949120144047000 PR-50136759320104047000 PR-50148005720144047000 PR-50149019420144047000 PR-50153314620144047000 PR-50177122720144047000 PR-50195431320144047000 PR-50204776820144047000 PR-50210942820144047000 PR-50211722220144047000 PR-50214667420144047000 PR-50217837220144047000 PR-50223977720144047000 PR-50224384420144047000 PR-50224462120144047000 PR-50224592020144047000 PR-50224895520144047000 PR-50229052320144047000 PR-50229096020144047000 PR-50229173720144047000 PR-50229225920144047000 PR-50229347320144047000 PR-50229408020144047000 PR-50229477220144047000 PR-50229546420144047000 PR-50235825320144047000 PR-50252210920144047000 PR-50253034020144047000 PR-50253042520144047000 PR-50253960320144047000 PR-50256767120144047000 PR-50256870320144047000 PR-50256922520144047000 PR-50256957720144047000 PR-50256991720144047000 PR-50260378820144047000 PR-50262128220144047000 PR-50262430520144047000 PR-50263029020144047000 PR-50263871320134047000 PR-50265522620144047000 PR-50266631020144047000 PR-50275785920144047000 PR-50276565320144047000 PR-50277754820134047000 PR-50277977220144047000 PR-50286992520144047000 PR-50290690420144047000 PR-50290751120144047000 PR-50293843220144047000 PR-50294484220144047000 PR-50294492720144047000 PR-50294519420144047000 PR-50294536420144047000 PR-50301810820144047000 PR-50301863020144047000 PR-50301923720144047000 PR-50301984420144047000 PR-50308688220144047000 PR-50308713720144047000 PR-50308843620144047000 PR-50309371720144047000 PR-50310653720144047000 PR-50312239220144047000 PR-50314161020144047000 PR-50314914920144047000 PR-50315053320144047000 PR-50315097020144047000 PR-50315174720144047000 PR-50325507220144047000 PR-50402803720144047000 PR-50412226920144047000 PR-50414565120144047000 PR-50418491020134047000 PR-50418612420134047000 PR-50422021620144047000 PR-50423477220144047000 PR-50423806220144047000 PR-50423900920144047000 PR-50424160720144047000 PR-50429568920134047000 PR-50430734620144047000 PR-50431306420144047000 PR-50433636120144047000 PR-50439550820144047000 PR-50439975720144047000 PR-50440097120144047000 PR-50448498120144047000 PR-50448662020144047000 PR-50449225320144047000 PR-50449415920144047000 PR-50449571320144047000 PR-50449883320144047000 PR-50450220820144047000 PR-50451043920144047000 PR-50451079120144047000 PR-50451096120144047000 PR-50451217520144047000 PR-50454161520144047000 PR-50454291420144047000 PR-50454638620144047000 PR-50454647120144047000 PR-50454681120144047000 PR-50454716320144047000 PR-50454750320144047000 PR-50454802520144047000 PR-50459245820144047000 PR-50459514120144047000 PR-50459773920144047000 PR-50460934520144047000 PR-50462589220144047000 PR-50463896720144047000 PR-50467179420144047000 PR-50467603120144047000 PR-50470955020144047000 PR-50471430920144047000 PR-50472297720144047000 PR-50474774320144047000 PR-50474835020144047000 PR-50474843520144047000 PR-50475773220134047000 PR-50477834620134047000 PR-50479688420134047000 PR-50480614720134047000 PR-50481117320134047000 PR-50483738620144047000 PR-50484018820134047000 PR-50484572420134047000 PR-50485508420134047000 PR-50486301420144047000 PR-50487436520144047000 PR-50487453520144047000 PR-50488700320144047000 PR-50490112220144047000 PR-50490623320144047000 PR-50491056720144047000 PR-50491247320144047000 PR-50491498620144047000 PR-50491610320144047000 PR-50491949020144047000 PR-50492009720144047000 PR-50492018220144047000 PR-50492121420144047000 PR-50492320520144047000 PR-50492511120144047000 PR-50492632520144047000 PR-50492710220144047000 PR-50492745420144047000 PR-50495571420134047000 PR-50495655420144047000 PR-50495979320134047000 PR-50497477420134047000 PR-50498261920144047000 PR-50498980620144047000 PR-50502713720144047000 PR-50505459820144047000 PR-50507884220144047000 PR-50507901220144047000 PR-50511478920144047000 PR-50512924820144047000 PR-50520148220144047000 PR-50520156720144047000 PR-50520190720144047000 PR-50520225920144047000 PR-50520320620144047000 PR-50533433220144047000 PR-50537382420144047000 PR-50537443120144047000 PR-50537512320144047000 PR-50537564520144047000 PR-50537755120144047000 PR-50537910520144047000 PR-50538075620144047000 PR-50538360920144047000 PR-50538456820144047000 PR-50539244720144047000 PR-50542475220144047000 PR-50548831820144047000 PR-50554236620144047000 PR-50556470420144047000 PR-50556497120144047000 PR-50557054120134047000 PR-50562386320144047000 PR-50562593920144047000 PR-50562767520144047000 PR-50564248620144047000 PR-50569115620144047000 PR-50569167820144047000 PR-50569635220144047000 PR-50570977920144047000 PR-50571237720144047000 PR-50571445320144047000 PR-50571470820144047000 PR-50571506020144047000 PR-50571679620144047000 PR-50571835020144047000 PR-50571843520144047000 PR-50573540720144047000 PR-50574087020144047000 PR-50575316820144047000 PR-50576243120144047000 PR-50577225020134047000 PR-50577250520134047000 PR-50579222320144047000 PR-50580478820144047000 PR-50580582020144047000 PR-50580642720144047000 PR-50582228220144047000 PR-50591260520144047000 PR-50594941420144047000 PR-50607794220144047000 PR-50608158420144047000 PR-50609300820144047000 PR-50626484020144047000 PR-50634044920144047000 PR-50637093320144047000 PR-50640453720144047000 PR-50641917820144047000 PR-50642506620144047000 PR-50648699320144047000 PR-50649062320144047000 PR-50650941620144047000 PR-50651747720144047000 PR-50652059720144047000 PR-50655653220144047000 PR-50657559220144047000 PR-50657628420144047000 PR-50657662420144047000 PR-50658190520144047000 PR-50658242720144047000 PR-50662633820144047000 PR-50662650820144047000 PR-50662738220144047000 SC-50104031020144047208 SP-00034277620144036181 TRF4-50249833820144040000
+TRF4-50272698620144040000
+EM MESA JULGADO: 17/03/2015
+Relator
+Exmo. Sr. Ministro NEWTON TRISOTTO (DESEMBARGADOR CONVOCADO DO TJ/SC) Presidente da Sessão
+Exmo. Sr. Ministro JORGE MUSSI
+Subprocurador-Geral da República
+Exmo. Sr. Dr. FRANKLIN RODRIGUES DA COSTA
+Secretário
+Bel. MARCELO PEREIRA CRUVINEL
+AUTUAÇÃO
+RECORRENTE : CARLOS HABIB CHATER
+ADVOGADO : ROBERTO BRZEZINSKI NETO E OUTRO (S)
+RECORRIDO : MINISTÉRIO PÚBLICO FEDERAL
+CORRÉU : EDIEL VIANA DA SILVA
+CORRÉU : DINORAH ABRAO CHATER
+CORRÉU : ALBERTO YOUSSEF
+CORRÉU : CARLOS ALBERTO MURARI
+CORRÉU : ASSAD JANNANI
+CORRÉU : DANIELLE KEMMER JANENE
+CORRÉU : MEHEIDIN HUSSEIN JENANI
+CORRÉU : CARLOS ALBERTO PEREIRA DA COSTA
+CORRÉU : RUBENS DE ANDRADE FILHO
+ASSUNTO: DIREITO PENAL - Crimes Previstos na Legislação Extravagante - Crimes de Lavagem ou
+Ocultação de Bens, Direitos ou Valores
+CERTIDÃO
+Certifico que a egrégia QUINTA TURMA, ao apreciar o processo em epígrafe na sessão realizada nesta data, proferiu a seguinte decisão:
+"A Turma, por unanimidade, não conheceu do recurso."
+Os Srs. Ministros Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Felix Fischer, Jorge Mussi e Gurgel de Faria votaram com o Sr. Ministro Relator.

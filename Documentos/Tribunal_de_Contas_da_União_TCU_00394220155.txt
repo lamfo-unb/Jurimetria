@@ -1,0 +1,551 @@
+URL: https://www.jusbrasil.com.br/jurisprudencia/tcu/313494072
+
+Ementa:
+REPRESENTAÇÃO. APRESENTAÇÃO DE INDÍCIOS DE IRREGULARIDADES. SOLICITAÇÃO PARA A ABERTURA DE FISCALIZAÇÃO EM EMPREENDIMENTOS COM A PARTICIPAÇÃO DE EMPRESAS ESTATAIS DO SETOR ELÉTRICO, COM A FINALIDADE DE AVERIGUAR A EVENTUAL OCORRÊNCIA DE PRÁTICAS IRREGULARES SEMELHANTES ÀS VERIFICADAS NO ÂMBITO DA OPERAÇÃO LAVA-JATO. NECESSIDADE DE ATUAÇÃO DESTE TRIBUNAL. AUTORIZAÇÃO PARA FISCALIZAÇÃO NA USINA HIDRELÉTRICA DE BELO MONTE, EM RAZÃO DO ATENDIMENTO DE CRITÉRIOS DE RISCO, MATERIALIDADE E RELEVÂNCIA. COMUNICAÇÕES
+
+---
+
+Inteiro Teor:
+Inteiro Teor
+TRIBUNAL DE CONTAS DA UNIÃO TC 003.942/2015-5
+GRUPO I – CLASSE VII – PLENÁRIO
+TC-003.942/2015-5
+Natureza: Representação
+Representante: Procurador Sergio Ricardo Costa Caribé, do Ministério Público junto ao TCU
+Unidades: Centrais Elétricas Brasileiras S.A. (Eletrobras) e subsidiárias
+SUMÁRIO: REPRESENTAÇÃO. APRESENTAÇÃO DE INDÍCIOS DE IRREGULARIDADES. SOLICITAÇÃO PARA A ABERTURA DE FISCALIZAÇÃO EM EMPREENDIMENTOS COM A PARTICIPAÇÃO DE EMPRESAS ESTATAIS DO SETOR ELÉTRICO, COM A FINALIDADE DE AVERIGUAR A EVENTUAL OCORRÊNCIA DE PRÁTICAS IRREGULARES SEMELHANTES ÀS VERIFICADAS NO ÂMBITO DA OPERAÇÃO LAVA-JATO. NECESSIDADE DE ATUAÇÃO DESTE TRIBUNAL. AUTORIZAÇÃO PARA FISCALIZAÇÃO NA USINA HIDRELÉTRICA DE BELO MONTE, EM RAZÃO DO ATENDIMENTO DE CRITÉRIOS DE RISCO, MATERIALIDADE E RELEVÂNCIA. COMUNICAÇÕES.
+RELATÓRIO
+Este processo foi autuado para tratar de representação formulada pelo Procurador Sergio Ricardo Costa Caribé, do Ministério Público junto a este Tribunal de Contas, mediante a qual solicita a realização de “procedimento de fiscalização de modo a averiguar se a prática irregular identificada durante a operação nominada como Lava-Jato estendeu-se às empresas estatais do setor elétrico”.
+2. Reproduzo, a seguir, a instrução da SeinfraElétrica:
+“INTRODUÇÃO
+1. Tratam os autos de representação formulada pelo Exmo. Procurador do Ministério Público junto ao Tribunal de Contas da União, Sr. Sérgio Ricardo Costa Caribé (peça 1), solicitando ao Tribunal de Contas da União a instauração de procedimento de fiscalização de modo a averiguar se a prática irregular identificada durante as investigações da Polícia Federal e Ministério Público no âmbito da Operação Lava-Jato (OLJ) estendeu-se às empresas estatais do setor elétrico.
+2. Foi proposto pelo representante que o objeto da fiscalização requerida seja delimitado por parâmetros de materialidade, risco e relevância, que permitam obter o fim almejado na representação, especialmente no que diz respeito à diminuição e prevenção de riscos ao sistema elétrico brasileiro e à apuração e prevenção de irregularidades que potencializem prejuízos aos cofres das entidades federais envolvidas.
+3. Nessa linha, tendo em vista que esta secretaria já vinha levantando informações, no âmbito do processo de produção de conhecimento (TC 002.000/2015-6), acerca da inserção no setor elétrico das empresas envolvidas na OLJ, apresenta-se, nesta oportunidade, exame (i) de elementos para análise do risco sistêmico para o setor elétrico de interrupção de projetos que contenham como proprietárias empresas envolvidas na OLJ e (ii) elementos de risco para os empreendimentos de empresas estatais, corporativos e em Sociedades de Propósito Específico (SPE), minoritários ou majoritários, que tenham contratos em andamento com empresas relacionadas na OLJ, para o estabelecimento de estratégia de controle.
+HISTÓRICO
+4. Em 2/3/2015, o Exmo. Procurador do Ministério Público junto ao TCU, Sr. Sérgio Ricardo Costa Caribé, protocolizou neste Tribunal (peça 1) representação mencionando preocupações quanto ao deslinde da Operação Lava-Jato em obras do setor elétrico brasileiro (SEB), notadamente nas obras mais importantes e que possuem recursos federais envolvidos.
+5. Em sua petição inicial, o representante alerta da existência de relevantes indícios de que as irregularidades averiguadas pela Polícia Federal e pelo Ministério Público Federal, no curso das investigações no âmbito da OLJ, tenham ocorrido também em empresas estatais federais atuantes no SEB.
+6. A preocupação emanada pelo procurador exsurge com a crise energética que o país enfrenta atualmente, associado à construção de importantes empreendimentos no setor e que estão sendo conduzidas/executadas por empresas denunciadas na referida operação. Cita os riscos à segurança do SEB, especialmente decorrentes de atrasos na conclusão de grandes empreendimentos de geração e transmissão de energia elétrica.
+7. Além disso, traz preocupação quanto à capacidade de as empresas envolvidas na OLJ honrarem os compromissos assumidos de execução de tais obras, quer seja como contratadas para a construção, quer seja como investidoras nesses empreendimentos.
+8. A petição traz, ainda, uma lista de obras do setor elétrico sendo conduzidas pelas empresas citadas: Usina Hidrelétrica (UHE) Jirau, UHE Belo Monte, Usina Termonuclear (UTN) Angra 3, entre outras.
+9. Conclui-se ser de inafastável prudência instaurar procedimento de fiscalização nos principais empreendimentos de geração e transmissão de energia elétrica sob a responsabilidade ou participação de empresas estatais federais, para identificar eventual ocorrência de práticas criminosas similares às verificadas na Petrobras, dadas suas nefastas consequências para o agravamento da crise no SEB e o patrimônio dessas estatais.
+EXAME DE ADMISSIBILIDADE
+10. O Ministério Público junto ao TCU possui legitimidade para representar ao Tribunal, consoante disposto no art. 84 da Lei 8.443/1992, art. 6º, Inciso XVIII, da Lei Complementar 75/1993 e art. 237, inciso I, do Regimento Interno do TCU (RTCU).
+11. Registra-se que a representação preenche os requisitos de admissibilidade constantes no art. 235 do Regimento Interno do TCU.
+EXAME TÉCNICO
+12. Adentrando ao exame de mérito da representação, observa-se que o Exmo. Sr. Procurador solicita ao TCU a identificação e a fiscalização de empreendimentos relevantes do setor elétrico que possam ter relação com as empresas envolvidas na OLJ, visando identificar a ocorrência de irregularidades e prevenir prejuízos aos cofres públicos.
+13. Na linha da representação formulada, a SeinfraElétrica já havia autuado processo de produção de conhecimento (TC 002.000/2015-6) para levantar informações atinentes a empreendimentos e contratos relacionados às empresas envolvidas na OLJ no SEB. Esse processo objetivou obter informações preliminares para avaliação dos riscos sistêmicos para o setor elétrico, ou seja, aqueles relacionados a eventuais paralisações de projetos de geração e transmissão de energia elétrica em que as empresas envolvidas na operação atuem como empreendedoras, e os riscos ao patrimônio das estatais na implantação de empreendimentos em que as empresas envolvidas na OLJ participem como construtoras ou sócias.
+14. Sabe-se que muitas das empresas envolvidas na OLJ são, em verdade, grandes conglomerados compostos por várias subsidiárias que atuam em diversos segmentos do setor de infraestrutura, como concessionários, e em diversas cadeias produtivas, como fornecedores de equipamentos, projetos e construção.
+15. Na identificação de elementos para avalição dos riscos sistêmicos ao SEB, pressupôs-se que a OLJ pode trazer reflexos na saúde financeira e operacional das empresas investigadas que atuam como concessionárias do setor elétrico ou como suas contratadas, diminuindo sua capacidade de investimento e colocando em risco a entrada em operação de importantes empreendimentos em fase construtiva, podendo frustrar a oferta de energia planejada.
+16. Na outra ponta, essas empresas atuam fortemente como empreiteiras e fornecedoras de equipamentos para as obras conduzidas pelas estatais do setor elétrico ou SPEs em que participam. É neste aspecto que reside evento de riscos relacionado a desvio de recursos públicos por meio de contratações forjadas por conluio, contratos com sobrepreço, aditivos contratuais indevidos etc.
+17. Feita essa preliminar, passa-se, a seguir, à análise das informações colhidas considerando (i) riscos sistêmicos para o setor elétrico e (ii) riscos aos cofres das empresas estatais do setor elétrico.
+Risco Sistêmico
+18. De início, obteve-se apoio na SeinfraPetróleo deste Tribunal para a obtenção da relação de empresas denunciadas na OLJ, até março de 2015. A Tabela 1 relaciona as empresas envolvidas.
+Tabela 1 – Relação de Empresas Envolvidas na Operação Lava-Jato
+Empresas
+Galvão Engenharia
+Construcap CCPS Engenharia e Comércio S.A.
+Mendes Júnior Trading e Engenharia
+SOG – Setal Sistemas em Óleo e Gás
+Constr. e Comércio Camargo Correa
+MPE Montagem e Projetos Especiais
+Engevix Engenharia
+Promon Engenharia
+UTC Engenharia
+Toyo Setal
+Construtora Norberto Odebrecht
+EIT Empresa Industrial Técnica S.A.
+Construtora Queiroz Galvão
+Fidens Engenharia S.A.
+Construtora OAS
+GDK S.A
+IESA Óleo e Gás
+Carioca Engenharia
+Skanska Brasil Ltda.
+Construbase
+Alusa Engenharia S.A.
+Techint
+Tomé Engenharia
+Jaragua Equipamentos
+Andrade Gutierrez S.A.
+19. Na sequência, buscou-se junto à Agência Nacional de Energia Elétrica (Aneel), por meio de diligência (peça 10), relação completa de proprietários e sócios de outorgas de concessões, permissões e autorizações de empreendimentos em fase de implantação para avaliação de riscos ao setor elétrico por eventuais paralizações de projetos de geração e transmissão de energia elétrica.
+20. A partir da relação encaminhada pela Aneel (peça 11), realizou-se cruzamento de dados até o terceiro nível, de sócios de sócios do proprietário do empreendimento, considerando não apenas o CNPJ das empresas relacionadas na Tabela 1, bem como outras empresas constituídas por estas empresas, com CNPJs distintos.
+21. Desse cruzamento, concluiu-se que não há empreendimentos em fase de implementação em transmissão de energia elétrica que contenha, como sócias até o terceiro nível, empresas envolvidas na OLJ.
+22. Em relação à geração, verificou-se a existência dos empreendimentos relacionados na Tabela 2.
+Tabela 2 – Empreendimentos de propriedade de empresas da Lava-Jato não concluídas
+Tipo
+Nome
+Agente
+PI* (MW)
+Situação
+Participação
+Part. (%)
+PCH
+Boa Vista
+RBF Geração de Energia S.A
+9
+Não iniciado
+Queiroz Galvão
+100
+PCH
+Retiro I
+RBF Geração de Energia S.A
+19,1
+Não iniciado
+Queiroz Galvão Part. – Conces S.A.
+100
+UTEbio
+Eldorado
+Usina Eldorado S.A.
+116
+Em andamento
+Odebrecht Agroind. Part. S.A.
+100
+EOL
+Dreen Cutia
+DREEN Brasil Invest. e Part. S.A
+25,2
+Não iniciado
+Galvão Energia Participações Ltda.
+100
+EOL
+Dreen Guajiru
+DREEN Brasil Invest. e Part. S.A
+21,6
+Não iniciado
+Galvão Energia Participações Ltda.
+100
+EOL
+GE Jangada
+DREEN Brasil Invest. e Part. S.A
+30
+Não iniciado
+Galvão Energia Participações Ltda.
+100
+EOL
+GE Mª Helena
+DREEN Brasil Invest. e Part. S.A
+30
+Não iniciado
+Galvão Energia Participações Ltda.
+100
+EOL
+Riachão I a VII
+Centais Eólicas
+145,8
+Em andamento
+Queiroz Galvão Des. de Neg. S.A.
+100
+UHE
+Santo Antônio
+Santo Antônio Energias S.A.
+3.150
+Em andamento
+Odebrecht Energia do Brasil S.A.
+38,6
+UHE
+Teles Pires
+Comp. Hidroelétrica Teles Pires
+1.820
+Em andamento
+Odebrecht Energia do Brasil S.A.
+0,9
+* Potência Instalada
+23. Importante registrar que os empreendimentos mais expressivos, em termos de potência instalada, listados na Tabela 2, Santo Antônio e Teles Pires, possuem menor participação de empresas relacionadas na OLJ, 38,6% e 0,9%, respectivamente, e encontram-se em fase final de implementação, já tendo pelo menos 95% das obras concluídas. Por essa razão, a presença da Odebrecht Energia do Brasil S.A. nesses empreendimentos não representa risco sistêmico ao setor elétrico.
+24. A UTEbio Eldorado, de 116 MW de potência instalada, de propriedade da Odebrecht Agroindústria Participações S.A. está praticamente concluída, devendo entrar em operação em junho de 2015. Os empreendimentos eólicos Riachão I a VII, de propriedade da Queiroz Galvão Desenvolvimento de Negócios S.A., com potência instalada total de 145,8 MW, devem entrar em operação, segundo a Aneel, em janeiro de 2016, não tendo vendido energia para o sistema regulado (peça 11). Portanto, não se vislumbram riscos elevados para o sistema elétrico decorrentes da participação das referidas empresas na implantação desses empreendimentos.
+25. Os demais empreendimentos listados na Tabela 2, embora ainda não iniciados e de propriedade da Queiroz Galvão e da Galvão Energia, não possuem grande relevância relativa para o setor elétrico em termos de potência instalada. Portanto, também não representam riscos importantes ao SEB.
+26. Pelo exposto, conclui-se não haver risco sistêmico relevante ao setor elétrico decorrente de eventuais paralizações de empreendimentos de geração e transmissão de propriedade de grupos privados envolvidos na Operação Lava-Jato.
+Riscos relacionados aos cofres das estatais do setor elétrico
+27. O grupo Eletrobras é constituído por dezesseis empresas, quais sejam: Eletrobras Holding, Eletrobras Partcipações S.A. (Eletropar), Companhia de Geração Térmica de Energia Elétrica (CGTEE), Companhia Hidro Elétrica do São Francisco (Chesf), Centrais Elétricas do Norte do Brasil S.A. (Eletronorte), Eletrobras Termonuclear S.A. (Eletronuclear), Eletrosul Centrais Elétricas S.A., Furnas Centrais Elétricas S.A., Eletrobras Distribuição Piauí, Eletrobras Distribuição Rondônia, Eletrobras Distribuição Roraima, Eletrobras Distribuição Acre, Eletrobras Amazonas Energia, Eletrobras Distribuição Alagoas, Eletrobras Celg e Itaipu Binacional.
+28. Diligenciou-se às estatais do grupo Eletrobras para que encaminhassem informações acerca de: empreendimentos corporativos em fase de implantação, com investimentos totais previstos superiores a R$ 50 milhões (valores menores teriam pouca significância frente à magnitude de investimentos no setor elétrico); e empreendimentos em que essas estatais participem, majoritária ou minoritariamente, por meio de Sociedades de Propósito Específico – SPE.
+Tabela 3 – Contratos Corporativos
+Estatal
+Empree.
+Empresa Contratada
+Objeto do Contrato
+Valor Contrato
+(x 1.000)
+Eletro-nuclear
+Angra 3
+Engevix
+Engenharia Eletromecânica 2
+R$ 123.845
+Construtora Andrade Gutierrez
+Obras Civis
+R$ 1.498.105
+Consórcio UNA 3 *
+Montagem Eletromecânica 1
+R$ 1.287.733
+Consórcio Angra 3 **
+Montagem Eletromecânica 2
+R$ 1.646.957
+Amazonas Energia
+Mauá 3
+Construtora Andrade Gutierrez
+EPC Turn Key Lump Sum
+R$ 963.597
+*UNA 3: Andrade Gutierrez, Norberto Odebrecht, Camargo Correia e UTC Engenharia.
+**Angra 3: Queiroz Galvão, Empresa Brasileira de Engenharia (EBE) e Technit.
+29. Em relação aos empreendimentos coorporativos, verificou-se a existência de apenas cinco contratos corporativos, de montante superior a R$ 50 milhões, ainda em fase de implementação, do grupo Eletrobras com empresas relacionadas na Operação Lava-Jato. Desses, quatro foram firmados com a Eletronuclear, para a construção de Angra 3, e um com a Amazonas Energia, para a construção da Usina Termoelétrica de Mauá 3, conforme Tabela 3.
+30. O TCU já vem acompanhando a implantação desses dois empreendimentos ao longo dos últimos anos. Apresenta-se, no Anexo I da presente instrução, um resumo das principais fiscalizações e constatações realizados pelo TCU nesses empreendimentos.
+31. Impende destacar ainda que, no caso de Angra 3, há determinação do TCU para que a SeinfraElétrica realize fiscalizações anuais até a conclusão do empreendimento. Já no caso de Mauá 3, as obras estão inseridas no âmbito do Fiscobras 2015, cuja fiscalização já se encontra em andamento no âmbito do TC 011.182/2015-6.
+32. Em relação às SPEs com participação de estatais, apenas três possuem como sócias empresas relacionadas à OLJ e ao grupo Eletrobras, conforme a Tabela 4.
+33. Duas delas são SPEs constituídas especialmente para a implantação de empreendimentos elétricos no exterior que contam com a participação da Holding Eletrobras. Como se percebe, são empreendimentos vultosos, em fase inicial de implantação, que exigirão atenção por parte desta Corte de Contas.
+Tabela 4 – SPEs / Sócias Estatais e Lava-Jato.
+Empreen.
+Local/Pot
+Sócias
+Físico/ Fin. (%)
+Invest. Total
+(x 1.000)
+UHE Tumarim
+Nicarágua 253 MW
+Eletrobras – 50%
+Queiroz Galvão – 50%
+0
+4
+US$ 1.149.000
+UHE Inambari
+Peru
+2.200 MW
+Eletrobras 29,4%%
+Furnas 19,6%
+Const. OAS Ltda. – 51%
+0
+0,70
+R$ 7.426.722
+UHE Santo Antônio
+Rondônia 3.150
+Furnas 39%
+Odebrecht Energia do Brasil S.A. 18,6%
+*SAAG Invest. 12,4%
+**Caixa Fundo Invest. Part. Amazônia Energia 20%
+94,80
+91,70
+R$ 19.726.000
+* A Andrade Gutierrez Participações S.A. detém, atualmente, 17% da SAAG Investimento (controlador Cemig). A SAAG adquiriu essa participação da Andrade Gutierrez, detentora original de 12,4% de Santo Antônio. Então, a Andrade Gutierrez Participações S.A. detém 2,1% de todo o empreendimento.
+** A Odebrecht Energia possui 50,1% da Caixa Fundo de Investimento em Participações Amazônia Energia. Os outros 49,9% desse fundo pertencem ao FI-FGTS. Então, a Odebrecht Energia possui 28,6% de todo o empreendimento.
+34. O terceiro empreendimento pertence ao Complexo Madeira, localizado em Rondônia, e trata-se de usina hidroelétrica relevante para o sistema elétrico brasileiro.
+35. Chama a atenção o fato de a Empresa de Pesquisa Energética (EPE) ter estimado, nos estudos submetidos ao TCU por ocasião da análise do primeiro estágio de acompanhamento da licitação (TC 021.731/2007-4), o custo dos investimentos de Santo Antônio em R$ 9,5 bilhões. Tais valores saltaram para cerca de R$ 19,7 bilhões, segundo informações fornecidas por Furnas (peça 40, TC 002.000/2015-6).
+36. Tal fato ganha significância pelo fato de o consórcio construtor ser encabeçado pela Construtora Norberto Odebrecht S.A., sócia com grande participação acionária (28,6%), e por haver financiamento do BNDES, de R$ 13,6 bilhões, com taxas subsidiadas.
+37. Realizou-se também levantamento de SPEs no setor elétrico que possuem como sócias empresas do grupo Eletrobras com contratos de execução de obras, serviços e demais necessários à consecução do empreendimento com empresas relacionadas na OLJ. Relaciona-se, na Tabela 5, os empreendimentos que atenderam a esse critério.
+Tabela 5 – SPEs – Estatais e Contratadas Lava-Jato.
+Empreendimento
+Invest. Total (R$x1000)
+Sócias Grupo Eletrobras (%)
+Físico/Fin (%)
+Contratado (s)
+Transnorte Energia (TR)
+1.236.983
+Eletronorte – 49
+LT – 6 SE -95
+16,30
+Alusa Engenharia S.A.
+Norte Energia S.A. UHE Belo Monte
+33.011.620
+Eletronorte 19,98
+Chesf 15
+Eletrobras 15
+65,40
+61,00
+1. Const. Andrade Gutierrez S.A. 2. Const. E Com. Camargo Corrêa S.A. 3. Const. Norberto Odebrecht S.A. 4. Const. OAS S.A. 5. Galvão Eng. S.A. 6. Queiroz Galvão Eng.
+UHE Teles Pires*
+4.527.053
+Furnas – 24,5
+Eletrosul 24,5
+97,80
+92,84
+Construtora Norberto Odebrecht S.A
+UHE Jirau
+20.151.724
+Chesf – 20,0
+Eletrosul 20,0
+97,61
+93,36
+1. Const. e Com. Carmargo Corrêa S.A.
+2. Const. Norberto Odebrecht S.A.
+3. Engevix Engenharia S.A.
+Paranaíba Transmissora de Energia S.A.
+1.061.000
+Furnas – 24,5
+42,40
+45,60
+Consórcio Engevix/Isolux
+UHE Santo Antônio
+19.726.000
+Furnas – 39,0
+94,80
+91,70
+Const. Norberto Odebrecht S.A.
+* A Neoenergia possui 50,1% deste empreendimento (composição descrita no parágrafo 43).
+38. No setor elétrico, foram encontradas apenas seis SPEs com sócias estatais que contrataram empresas relacionadas à Operação Lava-Jato. Dessas, quatro em grandes obras de construção de usinas hidroelétricas (incluindo-se a já comentada UHE Santo Antônio) e duas em linhas de transmissões.
+39. Destaquem-se dois megaempreendimentos estruturantes para o setor elétrico, a UHE Jirau e a UHE Belo Monte.
+40. Jirau é usina do Complexo Madeira e possui garantia física de 2.184 MW e potência instalada de 3.750 MW. A SPE Energia Sustentável do Brasil S.A. é a proprietária da concessão. Seu quadro societário se divide da seguinte forma: GDF-Suez Energy Latin America Participações Ltda. (grupo francês) detém 40% das ações, Mizha Energia Participações (grupo Mitsui japonês) 20%, Eletrosul 20%, Chesf 20%.
+41. Registre-se que a Camargo Corrêa possuía inicialmente 9,9% da propriedade do empreendimento e era a construtora responsável pela execução das obras. Sua participação foi comprada pela Mizha (grupo japonês Mitsui) e, posteriormente, a Camargo foi substituída pela Norberto Odebrecht como empreiteira responsável pela construção de Jirau. A Engevix Engenharia S.A. também foi citada na relação encaminhada pela Chesf de contratadas para a construção de Jirau.
+42. Chama a atenção o fato de os investimentos previstos pela EPE para a construção de Jirau, examinados pelo TCU no âmbito da análise dos estudos de viabilidade técnica econômico-financeira e ambiental (EVTEA), submetidos por ocasião da análise do primeiro estágio do acompanhamento da concessão (TC 002.098/2008-0), terem sido estimados em R$ 8,7 bilhões e custarem efetivamente, segundo informações fornecidas pela Eletrosul (peça 33, TC 002.000/2015-6), R$ 20,1 bilhões. Ressalte-se, todavia, que o projeto original foi modificado, com mudança do eixo da turbina, e aumentou em mais de 400 MW a energia originalmente garantida, o que, provavelmente, explica alguma parte dos aumentos dos custos construtivos.
+43. Belo Monte foi arrematada pela SPE Norte Energia. Seu quadro societário é constituído por: (i) dois fundos de pensão, Fundação Petrobras Seguridade Social, 10%, e Fundação dos Economiários Federais, 10%; (ii) pelas estatais do Grupo Eletrobras, Centrais Elétricas Brasileiras, 15%, Chesf, 15%, Eletronorte, 19,98%; (iii) Belo Monte Participações, 10%, composta essencialmente pela Neoenergia S.A., 99%, que conta em seu capital com a Caixa de Previdência dos Funcionários do Banco do Brasil, 22,24%, BB Banco de Investimento S.A., 11,99%, Fundo Mútuo de Investimentos em Ações – BB Carteira Livre, 26,77%, e a privada Iberdrola Energia, 39%; (iv) Amazônia Energia, 9,77%, constituída pela estatal estadual Cemig, 74,5%, e pela Light, 25,5%; (v) Vale S.A., 9%, que conta com pelo menos 26% de participação da Funcef, Previ e BNDESPar; (vi) Siderúrgica Norte Brasil, 1%; e (vii) J Malucelli Energia S.A., 0,25%.
+44. A Tabela 6 resume o controle acionário da Norte Energia.
+Tabela 6 – Controle Acionário Norte Energia (Belo Monte)
+Sócios Diretos
+Percentual
+Estatais do Grupo Eletrobras
+49,98
+Fundos de Pensão Federais
+20,00
+Belo Monte Participações (Neoenergia: 61% fundos ligados ao Banco do Brasil)
+10,00
+Amazônia Energia (Cemig e Light)
+9,77
+Vale S.A. (pelo menos 26% de fundos de pensão federais e BNDESpar)
+9,00
+Siderúrgica Norte Brasil
+1,00
+J Malucelli Energia S.A.
+0,25
+45. Da mesma forma que nos empreendimentos do Complexo Madeira, houve elevação expressiva dos investimentos para a construção de Belo Monte originalmente previstos pela EPE, analisados pelo TCU no âmbito do primeiro estágio de acompanhamento da outorga da concessão (TC 017.309/2009-1), em relação às previsões encaminhadas pela Eletronorte, considerando o avanço físico da obra em 65,4%. Esses investimentos saíram de R$ 19 bilhões para R$ 33 bilhões.
+46. No caso de Belo Monte, verifica-se o envolvimento das principais empresas relacionadas à Operação Lava-Jato nas obras de construção, havendo o agravante da grande predominância de capital de origem pública, seja por meio de aportes diretos de estatais federais ou estaduais, seja em razão de aportes de fundos de pensão provenientes de estatais federais, ou mesmo as vultosas quantias obtidas junto ao BNDES para financiamento do projeto, que montam R$ 22,5 bilhões.
+47. Relevante observar que os elevados incrementos dos investimentos previstos nos três megaempreendimentos hidroelétricos em combinação com os deságios praticados nos leilões de outorga conduzem à inviabilidade econômico-financeira desses projetos, se utilizados os estudos analisados pelo TCU no acompanhamento das outorgas. A Tabela 7 reúne informações sobre os deságios praticados nos leilões de outorga, os investimentos previstos originalmente e a previsão atual, dado o avançado nível de implementação física dos empreendimentos.
+Tabela 7 – Possível Inviabilidade Econômica dos Megaempreendimentos
+Empreend
+Invest Prev (R$ bilhões)
+Invest Praticado * (R$ bilhões)
+Aumento Invest (%)
+Tarifa Teto (R$/MWh)
+Tarifa Concedida (R$/MWh)
+Redução (%)
+Belo Monte
+19
+33
+73,68
+83
+77,97
+-6,06
+Jirau
+8,7
+20,1
+131,03
+91
+71,4
+-21,54
+Santo Antônio
+9,5
+19,7
+107,37
+122
+78,87
+-35,35
+* Não foi informado pelas estatais a data base dos investimentos praticados, podendo a diferença ser menor do que a calculada, em razão de inflação.
+48. Evidencia-se que o aumento no nível de investimento resulta saídas de caixa maiores no início da concessão e a redução das tarifas impacta diretamente nas receitas auferidas ao longo da concessão. Testes realizados nas planilhas encaminhadas por ocasião dos acompanhamentos de primeiro estágio com a incorporação dos investimentos atualizados e dos preços tarifários contratados revelam taxas de retorno negativas para os empreendimentos de Santo Antônio e Jirau e próxima a zero no de Belo Monte, o que implicaria prejuízos para as entidades públicas participantes das SPEs.
+Risco de Superavaliação dos Investimentos
+49. Bastante sintomático o elevado incremento observado nos investimentos dos megaempreendimentos do setor hidroelétrico, conduzindo, provavelmente, o nível de rentabilidade das SPEs a valores próximos a zero.
+50. Dois aspectos de risco podem indicar as razões para eventual inchaço indevido dos investimentos: 1) descontrole por parte das estatais sobre as decisões de investimentos e contratações realizadas pelos controladores das SPEs; e 2) financiamentos concedidos pelo BNDES com taxas subsidiadas, abaixo da Taxa Básica de Juros (Selic).
+51. Fiscalização específica da SeinfraElétrica deste TCU, ainda não julgada, revelou a ausência de controles da Chesf sobre as decisões e as contratações realizadas no âmbito das SPEs em que participa. O TC 023.736/2014-3, ainda em fase de comentários do gestor, avaliou, entre outros aspectos, a gestão da Chesf sobre as SPEs em que é acionista. Em resumo, verificou-se ausência de normativos internos que regulamentem os controles sobre suas participações, ausência de acompanhamento in loco do empreendimento, desconhecimento dos contratos assinados pelas SPEs, ausência de acompanhamento financeiro das SPEs, entre outros.
+52. A referida fiscalização também verificou que a Eletrobras não possui normativos ou orientações para as suas subsidiárias sobre como deve ser o acompanhamento de SPEs.
+53. A SecexEstataisRJ deste TCU realizou fiscalização na gestão de SPEs por Furnas (TC 021.932/2014-0, concluso com o Relator) e identificou falhas semelhantes às encontradas na Chesf.
+54. Não se tem notícia de como os fundos de pensão de empresas estatais controlam suas participações nessas SPEs. Por essa razão, propõe-se dar conhecimento dessa instrução à SecexPrevidência.
+55. Fato é que o descontrole dos acionistas estatais sobre os investimentos e os contratos firmados pelas SPEs aumentam o risco de comportamento oportunista dos controladores em conluio com empresas construtoras. Tal risco se potencializa pela já existência de comprovados esquemas de corrupção com propinas e sobrepreços envolvendo construtoras envolvidas na OLJ e contratadas por essas SPEs.
+56. Perceba-se que a Petrobras possui ambientes de controle e governança mais rígidos que as SPEs, pois se sujeita à Comissão de Valores Mobiliários (CVM), Securities and Exchange Commission (SEC), auditoria independente, auditoria interna, CGU, TCU, conselho de administração, conselho fiscal, corpo de empregados públicos de carreira, entre outros.
+57. Não se tem conhecimento de trabalhos da CGU em SPEs com participação de sócios estatais. Dos três megaempreendimentos retrocitados, apenas a Santo Antônio Energia S.A. emitiu debêntures e se encontra sujeita ao acompanhamento da CVM. O corpo de empregados dessas SPEs é celetista, demissível sem quaisquer restrições inerentes a empresas públicas e se submete inteiramente aos comandos do controlador.
+58. Registre-se não haver, sequer, definição sobre o alcance de jurisdição do TCU em relação a SPEs. Houve recusa de encaminhamento de informações pela Norte Energia a respeito de contratos firmados com a Impsa (fornecedora de turbinas e geradores que entrou em recuperação judicial) sob o argumento de que a SPE estaria fora da jurisdição do TCU (peça 43, p. 4, do TC 002.000/2015-6). Fato é que a expectativa de controle gerada sobre essas SPEs é baixa.
+59. Em relação aos empréstimos realizados pelo BNDES, verifica-se o volume expressivo de recursos emprestados a taxas de juros subsidiadas em valores inferiores à Selic. Note-se que somente os valores efetivamente emprestados pelo BNDES superam o total dos investimentos previstos originalmente nos estudos da EPE, analisados pelo TCU, conforme Tabela 8.
+Tabela 8 – Empréstimos BNDES
+Invest. EPE (R$ bilhões)
+Emp. BNDES
+(R$ bilhões)
+Belo Monte
+19
+22,5
+Jirau
+8,7
+9,5*
+Santo Antônio
+9,5
+13,5
+Não se tem a data base média dos empréstimos do BNDES, podendo a diferença entre as colunas ser menor em decorrência da inflação.
+* Valor obtido na imprensa.
+60. O valor cobrado pelo BNDES é a Taxa de Juros de Longo Prazo (TJLP), hoje em 6% a.a., mais um spread que varia entre 2,25% e 2,65%, o que totaliza aproximadamente 8,5% a.a., valor substancialmente inferior à Selic atualmente praticada (13,25% a.a.), que é o custo de captação do governo. Esses empréstimos têm carência de 5 anos e prazo de quitação final de mais ou menos 29 anos (peça 102, p. 84-86, do TC 002.000/2015-6) com a utilização do método SAC, amortizações constantes.
+61. Apenas de forma ilustrativa, considerando a soma dos empréstimos realizados pelo BNDES aos três megaempreendimentos e uma diferença de 3% a menor entre a taxa de juros praticada por esse banco e a Selic, o valor total do subsídio do Tesouro Nacional (soma dos subsídios anuais até a quitação), equivale a aproximadamente R$ 25,7 bilhões, segundo cálculos simplificados.
+62. O TCU realizou fiscalização em empréstimos concedidos pelo BNDES, tendo como um dos estudos de caso o financiamento à Norte Energia (TC 001.137/2014-0). Esse processo foi obstaculizado pelo BNDES, que não forneceu muitos dos elementos necessários a uma análise mais profunda sob a alegação de sigilo das informações relativas aos empréstimos. Ainda assim, verificou-se que o controle do BNDES sobre os empréstimos concedidos é focado na capacidade de pagamento dos empréstimos (garantias, índice de capitalização e índice de cobertura da dívida), havendo poucos controles sobre a real utilização dos recursos e a qualidade e os preços dos investimentos realizados pela Norte Energia.
+63. Considerando que: há vantagens econômicas por parte dos controladores das SPEs em inflar artificialmente os investimentos, a fim de obter benefícios advindos de maiores aportes dos parceiros estatais não controladores e das captações de recursos provenientes do BNDES a custos subsidiados; há indícios de aumento artificial dos investimentos, dada a grande diferença entre o previsto pela EPE e o relatado pelas sócias estatais dos empreendimentos; há descontrole, por parte das sócias estatais e do BNDES, dos valores e dos objetos dos contratos firmados pelas SPEs para a construção das usinas; há contratação, pelas SPEs, das principais empresas envolvidas na Operação Lava-Jato; é oportuna e conveniente a abertura de fiscalizações específicas em SPEs, com participação de capital público, responsáveis pela construção e operação de grandes empreendimentos no setor elétrico.
+Escolha de empreendimentos para fiscalizações
+64. Tendo como base critérios de risco, relevância e materialidade, destaca-se o empreendimento de Belo Monte, pelos seguintes motivos:
+a) trata-se do maior empreendimento em construção do setor elétrico e a maior usina geradora totalmente nacional, tendo extrema relevância para o suprimento de energia do país, pois possui capacidade instalada de 11.233 MW e garantia física de 4.571 MW;
+b) conta com investimentos declarados de R$ 33 bilhões e possui em seu capital social mais de 70% de capitais advindos do setor público federal;
+c) há financiamentos junto ao BNDES da ordem de R$ 22,5 bilhões;
+d) encontra-se em fase intermediária de implantação, com aproximadamente 65% de avanço físico;
+e) há a participação de seis empresas investigadas na Operação Lava-Jato.
+65. Verifica-se que nenhum outro empreendimento possui tantos indicadores de risco, materialidade e relevância. Por exemplo, os empreendimentos do Complexo Madeira e a UHE de Teles Pires já se encontram em adiantado avanço físico das obras, restando menos de 5% para a conclusão. Fiscalização nesses empreendimentos seria menos efetiva, pois já não há possibilidade de atuação preventiva ou concomitante, dificultando eventual constatação de irregularidades e recuperação de recursos. Embora esses empreendimentos também envolvam investimentos expressivos, Belo Monte possui investimentos cerca de 80% superiores ou mais.
+66. Os empreendimentos de transmissão relacionados, além de somarem investimentos bastante inferiores, não têm envolvimento substancial de empresas relacionadas à Operação Lava-Jato.
+67. Cabe, entretanto, avaliar mais aprofundadamente a possibilidade de se realizar fiscalizações nos empreendimentos internacionais da Eletrobras (UHE Inambari e UHE Tumarim), pois são investimentos de vários bilhões de reais, em fase inicial de implantação, tendo como sócias empresas diretamente relacionadas na Operação Lava-Jato. Propõe-se, portanto, a realização de levantamento específico para a obtenção de informações mais detalhadas sobre o andamento desses empreendimentos, tendo em vista a possibilidade de interrupção desses projetos, ante as dificuldades financeiras enfrentadas pela Eletrobras e por sócios, integrantes do rol de investigados na OLJ.
+68. Embora o Tribunal já tenha verificado riscos relevantes de participações das estatais em SPEs, a exemplo dos TC 033.668/2012-4 ( joint venture entre Caixa Econômica e IBM), TC 006.232/2008-8 (Petrobras e Gasene), TC 009.780/2013-0 (Infraero e SPEs), entre outros, não há fiscalizações realizadas diretamente em SPEs, a despeito do expressivo aumento de aportes de recursos estatais nessas organizações, em números absolutos e relativos. A Tabela 9 compara os recursos corporativos diretamente investidos e as inversões financeiras realizadas em SPEs.
+Tabela 9 – Comparativo Investimentos Corporativos e SPEs (R$ milhões)
+2009
+2010
+2011
+2012
+2013
+Corp.
+SPEs
+Corp.
+SPEs
+Corp.
+SPEs
+Corp.
+SPEs
+Corp.
+SPEs
+Eletronorte
+491
+259
+418
+593
+392
+553
+348
+425
+360
+659
+Chesf
+749
+181
+790
+288
+1.146
+597
+1152
+852
+1.388
+1.215
+Eletrosul
+553
+381
+628
+409
+620
+744
+470
+843
+322
+1.234
+Furnas
+1.433
+206
+1.245
+340
+988
+1.032
+1.148
+1.473
+945
+1.127
+Total
+3.226
+1.027
+3.081
+1.630
+3.146
+2.926
+3.118
+3.593
+3.015
+4.235
+Dados obtidos no Siest (Sistema de Informações das Estatais).
+69. Note-se que em 2012 os aportes dessas estatais em SPEs ultrapassaram os recursos investidos diretamente, e a diferença subiu expressivamente em 2013. O volume de recursos investidos diretamente tem se mantido constante ao longo dos anos, em contraste com a tendência de aumento das inversões financeiras realizadas em SPEs.
+70. O gráfico que se segue explicita o expressivo aumento da participação percentual das inversões financeiras em SPEs frente ao total de investimentos e inversões das quatro principais estatais do setor elétrico.
+71. Frise-se que os investimentos corporativos são fiscalizados anualmente, pelo TCU, por meio do Fiscobras e alcançam, no setor elétrico, em média, 45% do montante total da dotação orçamentária.
+72. Considerando não existir, até o momento, fiscalização do TCU em SPEs no setor elétrico, torna-se essencial que o controle externo verifique esses volumosos aportes públicos federais, podendo, inclusive, ampliar a contribuição que o TCU dá ao Congresso Nacional no âmbito do Fiscobras.
+CONCLUSÃO
+73. O documento constante da peça 1 deve ser conhecido como representação, por preencher os requisitos previstos nos arts. 235 e 237 do Regimento Interno/TCU c/c o art. 84 da Lei Orgânica do TCU (Lei 8.443/1992).
+74. Diante dos dados levantados, concluiu-se que não há risco sistêmico ao setor elétrico brasileiro decorrente de paralisações de empreendimentos de transmissão ou geração de energia que possuam como sócias ou proprietárias empresas privadas envolvidas na Operação Lava-Jato, visto que: (i) no segmento de transmissão, não há empreendimentos em fase de implementação que contenham, como sócias até o terceiro nível, empresas envolvidas na OLJ; e (ii) no segmento de geração, há dez empreendimentos (Tabela 2) que têm como sócios empresas citadas na OLJ, sendo que os três principais encontram-se em fase final de implementação e os demais são irrelevantes para o setor elétrico em termos de potência instalada.
+75. Quanto aos riscos relacionados às estatais do setor elétrico, constatou-se a existência de apenas quatro contratos corporativos firmados entre empresas do Grupo Eletrobras e empresas denunciadas na Operação Lava-Jato, em fase de implantação, com valor superior a R$ 50 milhões. Três deles foram firmados no âmbito da construção da Usina Termonuclear de Angra 3 e um para a construção da Usina Termoelétrica de Mauá 3, empreendimentos acompanhados de longa data pelo TCU, que continuam sob fiscalização. As informações sobre as ocorrências identificadas nesses empreendimentos foram resumidas no Anexo I.
+76. Existem apenas três empreendimentos no setor elétrico que têm empresas do Grupo Eletrobras associadas a empresas privadas ligadas à Operação Lava-Jato: UHE Santo Antônio (Norberto Odebrecht – 38,6%), UHE Tumarim (Queiroz Galvão – 50%) e UHE Inambari (Construtora OAS – 51%). As UHE Tumarim (253 MW, na Nicarágua) e UHE Inambari (2.200 MW, no Peru) são empreendimentos internacionais bilionários em fase inicial de implantação, que contam com a presença da Holding Eletrobras. Para esses casos, entende-se necessário aprofundar as informações sobre o andamento desses projetos, o que será feito no âmbito do processo de conhecimento (TC 002.000/2015-6), para subsidiar eventual decisão de abertura de fiscalizações específicas.
+77. Identificou-se, no setor elétrico, seis SPEs que contam como sócias, não controladoras, empresas do Grupo Eletrobras e que têm contratos de execução de obras, serviços e demais necessários à consecução de empreendimentos com empresas denunciadas na OLJ. Desses, dois são para a construção de linhas de transmissão e subestações e quatro são megaempreendimentos de geração hidroelétrica: Teles Pires, Santo Antônio, Jirau e Belo Monte.
+78. Pesquisou-se, em relação aos empreendimentos do Complexo Madeira e de Belo Monte, os maiores empreendimentos do setor elétrico em fase de construção, e verificou-se grande diferença entre os investimentos previstos pela EPE e os informados pelas sócias estatais, considerando a atual fase de construção.
+79. Considerando o descontrole, por parte de estatais não controladoras das SPEs e do BNDES, no acompanhamento da construção dos empreendimentos e dos gastos das SPEs, há reais possibilidades de inflacionamento artificial dos investimentos realizados, que beneficiariam os sócios controladores com maiores aportes de capital dos demais sócios e com a captação de mais financiamentos a juros subsidiados.
+80. A presença de empresas denunciadas na Operação Lava-Jato por prática de propina e sobrepreço nesses contratos e, principalmente, em Belo Monte, cuja SPE possui contrato com seis das principais empresas denunciadas, potencializa a possibilidade de ocorrência de fraudes entre controlador e empresas construtoras.
+81. Considerando o volume de recursos investidos em Belo Monte, que possui em seu capital social parcela superior a 75% de recursos de origem pública, sua importância para o setor elétrico, o percentual de 65% de avanço físico da obra, e o número de empresas denunciadas na Operação Lava-Jato, envolvidas em sua construção, sugere-se a abertura imediata de fiscalização nesse empreendimento.
+82. Por fim, salienta-se o aumento dos recursos aportados em SPEs pelas empresas estatais do setor elétrico, que já ultrapassou em muito os valores investidos diretamente em empreendimentos corporativos. Nota-se que o TCU fiscaliza anualmente cerca de 45% da dotação orçamentária dos investimentos estatais, por meio do Fiscobras, mas nada fiscalizou das inversões financeiras dessas empresas em SPEs. Torna-se, portanto, essencial que o controle externo verifique esses volumosos aportes públicos federais, podendo, inclusive, ampliar a contribuição que o TCU já dá ao Congresso Nacional, por meio do Fiscobras.
+BENEFÍCIO DE CONTROLE
+(...)
+PROPOSTA DE ENCAMINHAMENTO
+84. Ante todo o exposto, submete-se, à apreciação superior, as seguintes propostas:
+85. Conhecer, com fundamento no art. 237, inciso I, do Regimento Interno do TCU c/c o art. 84 da Lei Orgânica do TCU (Lei Federal 8.443/1992), da representação formulada pelo Procurador Sérgio Caribé do MPjTCU;
+85.1. autuar processo de fiscalização dos recursos públicos federais aportados na implantação da UHE Belo Monte;
+85.2. dar ciência do acórdão, bem como do relatório e do voto que o fundamentarem, à SecexPrevidência, ao representante, ao Ministério Público Federal envolvido na investigação da Operação Lava-Jato, à Comissão de Serviços de Infraestrutura do Senado Federal e à Comissão de Minas e Energia da Câmara dos Deputados;
+85.3. apensar o presente processo ao levantamento que vier a ser autuado, nos termos do item 83.1.”
+É o relatório.
+VOTO
+Por meio da representação em exame, seu autor, o Procurador Sergio Ricardo Costa Caribé, aponta indícios de irregularidades atinentes à Operação Lava-Jato, da Polícia Federal, apresentando argumentos para solicitar a realização de fiscalização, por este Tribunal, com a finalidade de apurar se as práticas verificadas estão ocorrendo também no âmbito das empresas estatais do setor elétrico.
+2. A preocupação do representante é, de fato, pertinente, tendo em vista a participação relevante de empresas investigadas na Operação Lava-Jato em empreendimentos estratégicos relativos à produção e à transmissão de energia. Diante desse panorama, parece-me oportuna a atuação desta Corte de Contas.
+3. Registro que, anteriormente à manifestação do Procurador, a SeinfraElétrica já havia iniciado levantamento de informações referentes ao tema mediante o TC-002.000/2015-6.
+4. A análise da unidade técnica quanto à representação abrange três vertentes de riscos: aos cofres das estatais, sistêmicos e de superavaliação de investimentos.
+5. Quanto ao risco sistêmico, partindo da lista de empresas envolvidas na operação da Polícia Federal e de informações da Agência Nacional de Energia Elétrica (Aneel), observou-se que, entre os outorgados com concessões, permissões e autorizações de empreendimentos de transmissão de energia em implementação, não há, empresas listadas na Operação Lava-Jato (a unidade técnica verificou inexistir envolvidas entre as sócias de sócias das outorgadas, até o terceiro nível). Foram consideradas, além das próprias empresas, outras por elas constituídas.
+6. Em relação à geração de energia, os maiores empreendimentos, as usinas hidrelétricas (UHEs) Santo Antônio e Teles Pires, estão praticamente concluídos, tendo participação relativamente baixa de empresas da lava-jato. Os que são de propriedade de investigadas pela Polícia Federal já estão na iminência de entrarem em operação.
+7. Por esses motivos, não se vislumbra risco sistêmico importante.
+8. Os investimentos e participações das dezesseis estatais do grupo Eletrobras também foram examinados, incluindo apenas os empreendimentos corporativos de mais de R$ 50 milhões, em fase de implementação, assim como as participações em Sociedades de Propósito Específico (SPEs).
+9. Há cinco contratos com empresas listadas na lava-jato nos dois empreendimentos corporativos que atendem o requisito de materialidade adotado pela unidade técnica – Usina Nuclear de Angra 3 e Usina Termelétrica de Mauá 3. Este Tribunal tem acompanhado ambos, tendo sido autuados, no que concerne a Angra 3, dezessete processos e proferidos dezenove acórdãos do Plenário, conforme os dados levantados pela SeinfraElétrica. As fiscalizações serão realizadas até o fim das obras. Na que está em curso (Fiscobras 2015), objetiva-se verificar o cumprimento de determinações relativas aos contratos de obras civis. A respeito de Mauá 3, foram criados quatro processos e prolatadas três deliberações.
+10. Apenas três SPEs têm como sócias empresas envolvidas na operação da Polícia Federal, sendo duas de UHEs em fase inicial de implantação, a serem construídas no exterior (UHE Tumarim, na Nicarágua, e UHE Inambari, no Peru). Por certo, ante o volume de recursos federais investidos, haverá, em momento oportuno, a atuação deste Tribunal quanto a esses dois empreendimentos.
+11. A outra é a UHE Santo Antônio, em Rondônia, cuja licitação foi acompanhada pelo TCU. Neste ponto, destaco a preocupante constatação da unidade técnica de que o custo de investimentos informados em 2007 foi de R$ 9,5 bilhões e que, de acordo com dados repassados neste ano por Furnas, já alcançam R$ 19,7 bilhões.
+12. A SeinfraElétrica apurou ainda que há seis SPEs que têm estatais do setor elétrico como sócias e que contrataram empresas ligadas aos fatos apurados na Operação Lava-Jato; duas em linhas de transmissão e quatro em UHEs, sendo as mais relevantes as de Jirau e de Belo Monte.
+13. Quando do acompanhamento do processo de outorga de Jirau, a estimativa de investimentos era de R$ 8,7 bilhões. Assim como ocorreu na UHE Santo Antônio, a previsão atual, segundo a Eletrosul, é significativamente maior – de R$ 20,1 bilhões. Nesse caso, como afirma a unidade técnica, o aumento pode ser explicado, ao menos em parte, pela mudança do eixo da turbina e o incremento de mais de 400W da energia a ser produzida.
+14. No tocante à UHE Belo Monte, que também apresentou mudança acentuada de prognóstico de investimento – de R$ 19 bilhões para R$ 33 bilhões –, há características que, decerto, implicam a necessidade de acompanhamento por este Tribunal: a participação das principais empresas da Operação Lava-Jato; e o predomínio de capital público, proveniente de estatais e de financiamento junto ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
+15. Ressalto que, com base em premissas utilizadas nos acompanhamentos das licitações desses três empreendimentos, com o aumento dos investimentos, obtém-se taxa de retorno próxima a zero para Belo Monte e negativa para Santo Antônio e Jirau.
+16. A SeinfraElétrica considera que há duas possíveis causas para esse aumento de investimentos – falta de controle das estatais quanto ao processo decisório e as condições favoráveis de financiamento oferecidas pelo BNDES.
+17. De fato, a respeito do primeiro aspecto, recentes trabalhos desta Corte, na Companhia Hidro Elétrica do São Francisco (Chesf) e em Furnas, indicam falta de controle em relação a decisões sobre investimentos por parte das estatais, o que torna os empreendimentos mais frágeis contra possíveis desvios de recursos e a prática de outras irregularidades.
+18. Quanto ao BNDES, os valores efetivamente disponibilizados são tão vultosos que chegam a superar a previsão inicial total de investimentos. Esses financiamentos foram feitos em condições consideravelmente favoráveis – taxa próxima a 8,5% a.a., carência de cinco anos e prazos em torno de 29 anos.
+19. Em face da possibilidade de haver incremento proposital dos investimentos, pelos sócios não públicos, para obtenção de vantagens indevidas dos aportes das estatais e do crédito benéfico do banco de desenvolvimento, concordo com a unidade técnica que se mostra adequada a realização de fiscalizações específicas a respeito da questão.
+20. Diante desse quadro, e considerando critérios de materialidade, risco e relevância, a SeinfraElétrica entende que fiscalização deve ter seu início na UHE Belo Monte. Os motivos podem ser assim sintetizados: dimensão e importância, haja vista a capacidade instalada de 11.233 MW; investimentos declarados da ordem de R$ 33 bilhões; 70% do capital são de origem federal; financiamentos do BNDES em valores próximos a R$ 22,5 bilhões; 65% de implementação; participação de seis empresas listadas na Operação Lava-Jato.
+21. Com efeito, sobretudo pelo montante expressivo de recursos federais e pela presença de empresas investigadas, é inevitável concluir que se trata de empreendimento que atende largamente aos requisitos para a atuação imediata desta Corte de Contas.
+Ante o exposto, acolho a proposta da unidade técnica e voto no sentido de que este Tribunal adote a deliberação que ora submeto à apreciação deste Plenário.
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 24 de junho de 2015.
+JOSÉ MÚCIO MONTEIRO
+Relator
+DECLARAÇÃO DE VOTO
+Gostaria de ressaltar a relevância da fiscalização proposta.
+Serão investidos R$ 33 bilhões em Belo Monte, dos quais cerca de R$ 22,5 bilhões provêm de financiamento do BNDES.
+Aproximadamente 70% do capital social da SPE Norte Energia provêm diretamente de empresas estatais e de fundos de pensão de empresas estatais. Não obstante a larga proeminência de aportes de recursos de origem pública federal, a sociedade é gerida por empreendedores privados.
+A unidade instrutiva ressaltou quatro fatos que evidenciam expressivo risco de dano ao erário em Belo Monte: a grande diferença entre o investimento previsto pela Empresa de Pesquisa Energética e o ora verificado (19 bilhões e 33 bilhões de reais); a contratação das principais empresas envolvidas na Operação Lava Jato; a expectativa de retorno do empreendimento próxima a zero, considerando os investimentos atualizados e os preços tarifários contratados; e a ausência de controle, inclusive pelos acionistas estatais, sobre os investimentos e contratos firmados.
+A Lei 6.404/1976 assegura aos acionistas o direito de fiscalizar a gestão dos negócios sociais (art. 109), e o de, sendo titulares de mais de 5% do capital, como é o caso das estatais do Grupo Eletrobrás (Centrais Elétricas Brasileiras, Chesf, Eletronorte, com 15%, 15% e 19,98% de participação acionária), obter acesso aos livros da companhia, ainda que por via judicial (art. 105), sem prejuízo dos meios de controle previstos no contrato social.
+A Lei das Sociedades Anonimas também assegura aos acionistas minoritários o direito de participação na composição do conselho de administração e do conselho fiscal (art. 141, 161, 163, 164 e 165).
+Em sendo essas participações financiadas com recursos públicos da União, os administradores das estatais federais participantes da Norte Energia, por força do princípio da indisponibilidade dos interesses tutelados pelo poder público (Lei 9.784/1999), tem mais que direito. Por terem sua atuação orientada pelo interesse público, possuem o dever legal de exercer fiscalização dos negócios da SPE e de velar pela boa utilização dos respectivos aportes de capital.
+Por sua vez, o TCU, por expressa determinação constitucional, tem o poder/dever de verificar os controles exercidos pelas estatais, bem como a qualidade e a eficiência de seus gastos, inclusive os aportes realizados na SPE para a construção do empreendimento.
+A fiscalização proposta pelo Relator, aos controles exercidos pelos acionistas estatais de uma SPE não controlada pela União, é pioneira e oportuna, pois, ante o esquema de corrupção revelado pela Operação Lava Jato, a sociedade civil aspira ao controle efetivo dos dinheiros públicos investidos por estatais.
+Note-se que os investimentos diretos de estatais no setor elétrico vêm gradualmente perdendo relevância se comparados com as inversões financeiras em SPEs. Considerando as quatro principais subsidiárias da Eletrobrás, desde 2012 o montante total de aportes em SPEs supera os investimentos diretos.
+Dessa forma, essencial que as fiscalizações do TCU se conformem a esse novo quadro, investigando o uso de recursos públicos federais em empreendimentos que contam com participação relevante de empresas públicas, mas são controladas por sócios privados.
+Parabenizo o relator pela proposta de fiscalização a qual me associo na íntegra.
+TCU, Sala das Sessões Ministro Luciano Brandão Alves de Souza, em 24 de junho de 2015.
+WALTON ALENCAR RODRIGUES
+Redator
+ACÓRDÃO Nº 1569/2015 – TCU – Plenário
+1. Processo TC-003.942/2015-5
+2. Grupo I – Classe VII – Representação
+3. Representante: Procurador Sergio Ricardo Costa Caribé, do Ministério Público junto ao TCU
+4. Unidades: Centrais Elétricas Brasileiras S.A. (Eletrobras) e subsidiárias
+5. Relator: Ministro José Múcio Monteiro
+6. Representante do Ministério Público: não atuou
+7. Unidade Técnica: SeinfraElétrica
+8. Advogado constituído nos autos: não há
+9. Acórdão:
+VISTOS, relatados e discutidos estes autos acerca de representação por meio da qual seu autor apresenta indícios de irregularidades e solicita a realização de fiscalização para apurar se as práticas verificadas no âmbito da Operação Lava-Jato, da Polícia Federal, estão ocorrendo também em empresas estatais do setor elétrico.
+ACORDAM os Ministros do Tribunal de Contas da União, reunidos em Sessão Plenária, diante das razões expostas pelo Relator, e com fundamento nos arts. 237, inciso I, do Regimento Interno do TCU, e no art. 19, §§ 2º, 4º e 6º, inciso I, da Resolução TCU 269/2015, em:
+9.1 conhecer da representação para, no mérito, considerá-la procedente;
+9.2 autorizar a realização de fiscalização nas empresas estatais acionistas da SPE Norte Energia, no intuito verificar a regularidade e a efetividade dos controles exercidos sobre os investimentos e contratos firmados pela companhia, notadamente no que se refere à possibilidade de superavaliação de investimentos;
+9.3 notificar, com o envio de cópia deste acórdão, e do relatório e voto que o acompanham, a SecexPrevidência, o representante, o Ministério Público Federal, a Comissão de Serviços de Infraestrutura do Senado Federal, a Comissão de Fiscalização e Controle da Câmara dos Deputados e a Comissão de Minas e Energia da Câmara dos Deputados;
+9.4 apensar, oportunamente, o presente processo ao que será constituído em atendimento ao subitem 9.2.
+10. Ata nº 24/2015 – Plenário.
+11. Data da Sessão: 24/6/2015 – Ordinária.
+12. Código eletrônico para localização na página do TCU na Internet: AC-1569-24/15-P.
+13. Especificação do quorum:
+13.1. Ministros presentes: Raimundo Carreiro (na Presidência), Walton Alencar Rodrigues, Benjamin Zymler e José Múcio Monteiro (Relator).
+13.2. Ministros-Substitutos convocados: Augusto Sherman Cavalcanti e Marcos Bemquerer Costa.
+13.3. Ministros-Substitutos presentes: André Luís de Carvalho e Weder de Oliveira.
+(Assinado Eletronicamente)
+RAIMUNDO CARREIRO
+(Assinado Eletronicamente)
+JOSÉ MÚCIO MONTEIRO
+Vice-Presidente, no exercício da Presidência
+Relator
+Fui presente:
+(Assinado Eletronicamente)
+PAULO SOARES BUGARIN
+Procurador-Geral
+1
