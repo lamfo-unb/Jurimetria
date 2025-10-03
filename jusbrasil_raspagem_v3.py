@@ -10,8 +10,8 @@ import re
 from datetime import datetime
 
 # --- CONFIGURAÇÕES ---
-URL_BASE_BUSCA = "https://www.jusbrasil.com.br/jurisprudencia/busca?q=opera%C3%A7%C3%A3o%20Lava%20Jato&dateFrom=2015-01-01&dateTo=2015-12-31"
-NUMERO_MAXIMO_DE_PAGINAS = 10 
+URL_BASE_BUSCA = "https://www.jusbrasil.com.br/jurisprudencia/busca?q=opera%C3%A7%C3%A3o%20Lava%20Jato&dateFrom=2015-01-01&dateTo=2015-06-26"
+NUMERO_MAXIMO_DE_PAGINAS = 50 
 
 PASTA_RAIZ = "decisoes_jusbrasil"
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
