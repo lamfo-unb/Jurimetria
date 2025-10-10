@@ -1,10 +1,8 @@
-# -*- coding: utf-8 -*-
-
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
 import time
 import os
 import re
@@ -34,7 +32,7 @@ print(f"📂 A base de dados e os arquivos serão salvos em: {os.path.abspath(PA
 
 # --- FUNÇÕES AUXILIARES ---
 def limpar_nome_arquivo(titulo):
-    titulo_limpo = re.sub(r'[\\/*?:"<>|]', "", titulo)
+    titulo_limpo = re.sub(r'[\\/*?:"<>|.-]', "", titulo)
     titulo_limpo = re.sub(r'\s+', '_', titulo_limpo)
     return titulo_limpo[:150]
 
@@ -48,7 +46,7 @@ def salvar_progresso(df_para_salvar):
 
 # --- INICIALIZAÇÃO DA BASE DE DADOS ---
 print("\n--- Carregando Base de Dados ---")
-COLUNAS_REGISTRO = ['url', 'status', 'timestamp_processamento', 'nome_arquivo_salvo', 'detalhe_erro']
+COLUNAS_REGISTRO = ['processo_numero', 'status', 'timestamp_processamento', 'nome_arquivo_salvo', 'detalhe_erro']
 try:
     df_registro = pd.read_csv(ARQUIVO_REGISTRO_CSV)
     print(f"📖 Base de dados encontrada. {len(df_registro)} registros carregados.")
@@ -56,15 +54,12 @@ except FileNotFoundError:
     df_registro = pd.DataFrame(columns=COLUNAS_REGISTRO)
     print("📖 Nenhuma base de dados encontrada. Um novo arquivo será criado.")
 
-urls_processadas = set(df_registro['url'])
+processos_processados = set(df_registro['processo_numero'])
 
 # --- INICIALIZAÇÃO DO NAVEGADOR ---
 options = uc.ChromeOptions()
 options.add_argument('--start-maximized')
 print("\nIniciando navegador com undetected-chromedriver...")
-
-# NOTA: Se o erro de versão voltar, descomente a linha com "version_main"
-# Exemplo: driver = uc.Chrome(version_main=140, options=options)
 driver = uc.Chrome(options=options)
 
 # --- EXECUÇÃO PRINCIPAL ---
@@ -73,11 +68,9 @@ erros_nesta_sessao = 0
 parada_solicitada = False
 pagina_atual = 1
 
-# Carrega a página inicial ANTES de entrar no loop
 print(f"Carregando página de busca inicial: {URL_BASE_BUSCA}")
 driver.get(URL_BASE_BUSCA)
 
-# --- PASSO DE DEPURAÇÃO ---
 print("\n" + "---" * 25)
 print("⚠️ AÇÃO NECESSÁRIA - OBSERVE O NAVEGADOR ⚠️")
 input("O navegador abriu. Verifique se há pop-ups ou banners de cookies e feche-os. Após isso, pressione ENTER aqui no terminal para continuar...")
@@ -91,117 +84,100 @@ while True:
     print(f"\n" + "---" * 25)
     print(f"--- 📄 Página {pagina_atual} | Sucessos: {sucessos_nesta_sessao} | Erros: {erros_nesta_sessao} ---")
     print("---" * 25)
-
-    try:
-        # Espera Robusta: Aguarda os links dos resultados se tornarem visíveis
-        seletor_dos_links = "a.titulo-link"
-        print(f"Aguardando os links ({seletor_dos_links}) da página aparecerem...")
-        WebDriverWait(driver, 30).until(
-            EC.visibility_of_element_located((By.CSS_SELECTOR, seletor_dos_links))
-        )
-        time.sleep(2) 
-        print("🔍 Links encontrados. Coletando URLs...")
-    
-    except TimeoutException:
-        print(f"❌ ERRO CRÍTICO: O tempo de espera esgotou e nenhum link foi encontrado na página {pagina_atual}.")
-        screenshot_name = f"erro_fatal_pagina_{pagina_atual}.png"
-        screenshot_path = os.path.join(PASTA_BASE_DE_DADOS, screenshot_name)
-        driver.save_screenshot(screenshot_path)
-        print(f"📸 Screenshot do erro salvo em '{screenshot_path}'. Verifique a imagem.")
-        break
-    
-    script_coleta = f"return Array.from(document.querySelectorAll('{seletor_dos_links}')).map(el => el.href);"
-    urls_pagina = driver.execute_script(script_coleta)
-    
-    print(f"✅ Coleta concluída. {len(urls_pagina)} links foram encontrados nesta página.")
-
-    if not urls_pagina:
-        print("❌ Nenhum link retornado pelo script. Fim dos resultados.")
-        break
     
     novos_registros = []
 
-    for i, url in enumerate(urls_pagina, 1):
-        print(f"\n   -> Processando link {i}/{len(urls_pagina)} da pág {pagina_atual}: {url[:70]}...")
-
-        if url in urls_processadas:
-            print("   -> 🟡 URL já consta na base de dados. Pulando.")
-            continue
+    try:
+        # Primeiro, esperamos que as abas (tabs) estejam visíveis
+        seletor_abas = "//div[@role='tab']"
+        WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, seletor_abas)))
         
-        log_entry = {col: None for col in COLUNAS_REGISTRO}
-        log_entry['url'] = url
-        log_entry['timestamp_processamento'] = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        # Contamos quantas abas existem para criar o loop
+        num_abas = len(driver.find_elements(By.XPATH, seletor_abas))
+        print(f"🔍 {num_abas} abas de tribunais encontradas nesta página.")
+
+    except TimeoutException:
+        print(f"❌ ERRO CRÍTICO: Nenhuma aba de tribunal foi encontrada na página {pagina_atual}. Encerrando.")
+        break
+
+    # ==============================================================================
+    # NOVA LÓGICA: LOOP INTERNO PARA PERCORRER AS ABAS
+    # ==============================================================================
+    for i in range(num_abas):
+        if parada_solicitada: break
         
         try:
-            driver.get(url)
+            # Reencontramos as abas a cada iteração para evitar o erro "StaleElementReferenceException"
+            abas_da_pagina = driver.find_elements(By.XPATH, seletor_abas)
+            aba_atual = abas_da_pagina[i]
             
-            titulo_documento = ""
-            try:
-                titulo_elemento = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, "h1.titulo-documento"))
-                )
-                titulo_documento = titulo_elemento.text
-                nome_limpo = limpar_nome_arquivo(titulo_documento)
-                nome_arquivo = f"{nome_limpo}.txt"
-                print(f"      ✓ Título encontrado: {nome_arquivo[:50]}...")
-            except TimeoutException:
-                print("      ⚠️ Não foi possível extrair o título. Usando nome padrão.")
-                nome_arquivo = f"decisao_pag{pagina_atual}_{i:03}.txt"
+            nome_aba = aba_atual.text.split('\n')[0] if '\n' in aba_atual.text else aba_atual.text
+            print(f"\n   -> Processando aba {i+1}/{num_abas}: '{nome_aba}'")
             
-            texto_completo = ""
-            try:
-                # Extração Robusta: Usando o XPath relativo que discutimos
-                xpath_conteudo = "//div[@class='conteudo-ato']"
-                conteudo_div = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, xpath_conteudo))
-                )
-                texto_completo = conteudo_div.text
-                print("      ✓ Conteúdo do documento encontrado com XPath robusto.")
-            except TimeoutException:
-                print(f"      ❌ ERRO: Conteúdo não encontrado com o XPath: {xpath_conteudo}")
-                log_entry['status'] = 'erro_conteudo_nao_encontrado'
-                log_entry['detalhe_erro'] = f'Seletor XPath "{xpath_conteudo}" não encontrado.'
-                novos_registros.append(log_entry)
+            # Clica na aba
+            aba_atual.click()
+            time.sleep(2) # Pausa para o conteúdo da aba carregar
+
+            # Agora, extraímos o conteúdo do artigo visível
+            artigo = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located((By.XPATH, "//article"))
+            )
+            
+            log_entry = {col: None for col in COLUNAS_REGISTRO}
+            numero_processo = ""
+            
+            # Extrai o número do processo como identificador único
+            seletor_processo = ".//div[starts-with(normalize-space(.), 'Processo')]"
+            elemento_processo = artigo.find_element(By.XPATH, seletor_processo)
+            texto_processo_completo = elemento_processo.text
+            numero_processo = texto_processo_completo.replace("Processo", "").strip()
+            log_entry['processo_numero'] = numero_processo
+
+            print(f"      -> Documento: {numero_processo}")
+            
+            if numero_processo in processos_processados:
+                print("      -> 🟡 Documento já consta na base de dados. Pulando.")
                 continue
 
+            # Extrai o texto completo do artigo
+            texto_completo = artigo.text
+            nome_arquivo = f"{limpar_nome_arquivo(numero_processo)}.txt"
             caminho_arquivo = os.path.join(PASTA_SAIDA_TEXTOS, nome_arquivo)
+
             with open(caminho_arquivo, "w", encoding="utf-8") as f:
-                f.write(f"URL: {url}\n\n")
-                f.write(f"TÍTULO: {titulo_documento}\n\n")
-                f.write(f"--- CONTEÚDO ---\n{texto_completo}")
-            
+                f.write(texto_completo)
+
             print(f"      ✅ Texto completo salvo em '{os.path.basename(caminho_arquivo)}'")
             log_entry['status'] = 'sucesso'
             log_entry['nome_arquivo_salvo'] = nome_arquivo
+            log_entry['timestamp_processamento'] = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+            sucessos_nesta_sessao += 1
+            novos_registros.append(log_entry)
 
+        except StaleElementReferenceException:
+            print("      ⚠️ Erro de elemento 'stale' ao tentar processar a aba. Tentando novamente na próxima iteração.")
+            time.sleep(3) # Pausa extra
+            continue # Tenta a proxima aba
         except Exception as e:
-            print(f"      ❌ Erro INESPERADO ao processar o link: {e}")
-            screenshot_name = f"erro_{limpar_nome_arquivo(url)}.png"
-            screenshot_path = os.path.join(PASTA_BASE_DE_DADOS, screenshot_name)
-            driver.save_screenshot(screenshot_path)
-            print(f"      📸 Screenshot de erro salvo em '{screenshot_path}'.")
-            
-            log_entry['status'] = 'erro_inesperado'
-            log_entry['detalhe_erro'] = str(e).replace('\n', ' ')
-
-        novos_registros.append(log_entry)
-
-        if log_entry['status'] == 'sucesso': sucessos_nesta_sessao += 1
-        elif log_entry['status'].startswith('erro_'): erros_nesta_sessao += 1
+            print(f"      ❌ Erro INESPERADO ao processar a aba '{nome_aba}': {e}")
+            erros_nesta_sessao += 1
+            if 'log_entry' in locals() and log_entry.get('processo_numero'):
+                log_entry['status'] = 'erro_inesperado'
+                log_entry['detalhe_erro'] = str(e).replace('\n', ' ')
+                novos_registros.append(log_entry)
 
         if (LIMITE_SUCESSOS_SESSAO and sucessos_nesta_sessao >= LIMITE_SUCESSOS_SESSAO) or \
            (LIMITE_ERROS_SESSAO and erros_nesta_sessao >= LIMITE_ERROS_SESSAO):
             print(f"\n🛑 LIMITE DE SUCESSOS/ERROS ATINGIDO. Encerrando a raspagem.")
             parada_solicitada = True
-            break
-            
+    
+    # Após processar todas as abas, salvamos o progresso da página inteira
     if novos_registros:
         print(f"\n--- Fim da página {pagina_atual}. Salvando {len(novos_registros)} novos registros... ---")
         novos_df = pd.DataFrame(novos_registros)
         df_registro = pd.concat([df_registro, novos_df], ignore_index=True)
         salvar_progresso(df_registro)
-        urls_processadas.update(novos_df['url'])
-        novos_registros = []
+        processos_processados.update(novos_df['processo_numero'].dropna())
     
     if parada_solicitada: break
 
