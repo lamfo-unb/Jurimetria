@@ -298,5 +298,5 @@ while True:
 # --- FIM DA EXECUÇÃO ---
 print("\n🎉 Processo de raspagem concluído!")
 driver.quit()
-driver.quit()
+
 
